@@ -1,0 +1,1001 @@
+Booking ID,Customer ID,Destination,Booking Date,Travel Date,Booking Status,Revenue,Booking Channel,Consultant,Country,Device,Trip Length,Adults,Children
+BKG00001,CUST0221,San Francisco,2023-09-03,2024-10-13,Confirmed,2659,Agent,Consultant_11,UK,Mobile,3,4,0
+BKG00002,CUST0119,Vienna,2024-10-22,2023-07-26,Cancelled,2949,Phone,Consultant_17,Germany,Mobile,6,2,0
+BKG00003,CUST0309,Madrid,2024-01-30,2024-01-27,Confirmed,4330,Agent,Consultant_10,Italy,Tablet,12,2,0
+BKG00004,CUST0183,Copenhagen,2024-05-01,2023-12-10,Confirmed,621,App,Consultant_12,Italy,Tablet,5,4,2
+BKG00005,CUST0288,Tokyo,2024-04-20,2025-04-16,Confirmed,4868,Agent,Consultant_17,Spain,Mobile,11,1,2
+BKG00006,CUST0307,Rio,2024-05-31,2025-05-27,Confirmed,1817,Website,Consultant_4,Spain,Mobile,5,3,2
+BKG00007,CUST0300,Vienna,2023-07-03,2023-05-07,Confirmed,4993,Website,Consultant_2,Germany,Desktop,8,2,1
+BKG00008,CUST0082,Cape Town,2023-01-20,2023-08-31,Confirmed,3018,Website,Consultant_11,Netherlands,Tablet,8,3,2
+BKG00009,CUST0454,Rio,2024-07-11,2025-05-08,Confirmed,5580,Agent,Consultant_7,Germany,Tablet,14,4,2
+BKG00010,CUST0402,Madrid,2024-06-07,2023-06-16,Pending,1730,Website,Consultant_2,Germany,Mobile,3,3,1
+BKG00011,CUST0211,Oslo,2024-08-04,2023-02-05,Cancelled,1633,Website,Consultant_18,France,Mobile,18,1,1
+BKG00012,CUST0150,Athens,2024-06-12,2023-05-19,Pending,1801,Website,Consultant_4,USA,Tablet,7,4,0
+BKG00013,CUST0037,Athens,2023-05-27,2024-07-30,Confirmed,4534,App,Consultant_8,France,Desktop,11,1,1
+BKG00014,CUST0352,Helsinki,2024-10-27,2023-03-10,Pending,2410,Agent,Consultant_20,Spain,Mobile,12,4,1
+BKG00015,CUST0312,Dubai,2023-10-31,2024-11-22,Confirmed,7212,Agent,Consultant_14,USA,Tablet,15,1,2
+BKG00016,CUST0361,Milan,2024-09-11,2024-03-30,Confirmed,2005,Phone,Consultant_12,Spain,Tablet,17,4,0
+BKG00017,CUST0059,Cape Town,2024-08-04,2024-10-21,Confirmed,3685,Agent,Consultant_18,France,Desktop,14,1,0
+BKG00018,CUST0131,San Francisco,2024-11-25,2023-10-18,Confirmed,2416,App,Consultant_11,Spain,Desktop,7,4,1
+BKG00019,CUST0412,Seoul,2023-08-16,2024-03-31,Confirmed,7540,Agent,Consultant_8,Germany,Mobile,7,1,2
+BKG00020,CUST0202,Helsinki,2023-04-12,2023-04-27,Confirmed,5415,App,Consultant_2,Germany,Mobile,20,4,2
+BKG00021,CUST0243,Barcelona,2024-08-09,2024-05-09,Confirmed,7496,App,Consultant_15,Italy,Mobile,14,1,2
+BKG00022,CUST0035,Copenhagen,2024-02-21,2023-04-16,Confirmed,4048,Agent,Consultant_9,Spain,Tablet,5,2,2
+BKG00023,CUST0445,Prague,2023-08-04,2024-05-15,Confirmed,3257,Phone,Consultant_19,UK,Mobile,9,3,1
+BKG00024,CUST0093,San Francisco,2024-02-11,2024-03-19,Confirmed,2456,Website,Consultant_20,Germany,Tablet,19,4,2
+BKG00025,CUST0438,Dubai,2024-02-03,2025-05-04,Confirmed,6964,Website,Consultant_8,Spain,Mobile,20,1,0
+BKG00026,CUST0447,Tokyo,2024-05-13,2025-01-25,Cancelled,678,Agent,Consultant_19,Netherlands,Desktop,3,2,0
+BKG00027,CUST0207,Sydney,2024-04-09,2024-05-01,Cancelled,1396,Agent,Consultant_5,Germany,Desktop,7,4,1
+BKG00028,CUST0353,Madrid,2024-11-21,2023-11-11,Confirmed,6862,App,Consultant_11,France,Tablet,4,4,2
+BKG00029,CUST0391,Helsinki,2023-03-23,2023-09-26,Confirmed,7432,Agent,Consultant_15,USA,Desktop,3,4,2
+BKG00030,CUST0332,Istanbul,2024-08-26,2024-12-07,Confirmed,6568,App,Consultant_8,Italy,Tablet,9,3,2
+BKG00031,CUST0305,Helsinki,2024-11-17,2024-09-20,Cancelled,2051,Phone,Consultant_19,Netherlands,Tablet,13,1,2
+BKG00032,CUST0350,Vienna,2023-12-31,2024-11-13,Confirmed,991,Agent,Consultant_8,Spain,Desktop,13,1,1
+BKG00033,CUST0213,Cape Town,2023-06-12,2024-12-02,Confirmed,560,Website,Consultant_19,Germany,Tablet,20,4,2
+BKG00034,CUST0159,Vienna,2023-02-17,2024-08-10,Confirmed,1577,Website,Consultant_18,France,Desktop,19,4,1
+BKG00035,CUST0442,Cape Town,2024-05-25,2024-02-06,Confirmed,6299,Agent,Consultant_10,UK,Mobile,4,4,2
+BKG00036,CUST0445,Prague,2023-11-25,2024-06-08,Confirmed,7181,App,Consultant_7,Spain,Mobile,9,2,2
+BKG00037,CUST0024,Copenhagen,2023-04-26,2024-10-15,Cancelled,3395,Website,Consultant_9,Netherlands,Desktop,9,4,0
+BKG00038,CUST0404,Dubai,2023-12-03,2023-03-16,Confirmed,7631,App,Consultant_1,Italy,Desktop,12,3,1
+BKG00039,CUST0293,Bangkok,2023-05-27,2024-03-06,Confirmed,4660,Agent,Consultant_19,Germany,Desktop,5,1,0
+BKG00040,CUST0004,Oslo,2024-07-28,2023-10-04,Cancelled,4183,Agent,Consultant_5,UK,Desktop,14,3,1
+BKG00041,CUST0220,Oslo,2023-11-19,2024-10-07,Cancelled,1085,Website,Consultant_19,Italy,Mobile,5,4,2
+BKG00042,CUST0364,Bangkok,2024-03-18,2024-09-18,Confirmed,6323,Agent,Consultant_1,Italy,Tablet,13,2,2
+BKG00043,CUST0382,Rio,2023-01-13,2024-04-24,Confirmed,6814,Phone,Consultant_15,France,Tablet,14,4,1
+BKG00044,CUST0020,Oslo,2024-05-08,2024-05-29,Confirmed,7940,Phone,Consultant_16,Spain,Mobile,6,4,0
+BKG00045,CUST0444,Istanbul,2023-10-14,2024-11-06,Pending,4460,Website,Consultant_7,Germany,Tablet,18,4,1
+BKG00046,CUST0152,Madrid,2023-04-24,2024-10-11,Confirmed,4270,Phone,Consultant_12,Netherlands,Mobile,20,4,1
+BKG00047,CUST0050,Rome,2024-04-24,2023-02-17,Pending,1034,App,Consultant_8,Spain,Tablet,6,4,2
+BKG00048,CUST0177,Helsinki,2023-01-22,2024-09-27,Confirmed,3962,Website,Consultant_5,Spain,Desktop,8,1,0
+BKG00049,CUST0435,Sydney,2023-12-15,2024-11-22,Confirmed,4511,Website,Consultant_10,USA,Desktop,17,3,1
+BKG00050,CUST0096,Athens,2024-11-13,2025-02-26,Confirmed,7336,App,Consultant_5,Germany,Desktop,3,2,0
+BKG00051,CUST0105,Madrid,2024-07-19,2023-11-15,Confirmed,3898,Phone,Consultant_17,USA,Mobile,5,4,0
+BKG00052,CUST0420,Sydney,2023-11-16,2024-03-19,Confirmed,2655,Phone,Consultant_5,Netherlands,Mobile,7,2,1
+BKG00053,CUST0250,Milan,2023-05-06,2025-01-20,Confirmed,6466,Phone,Consultant_15,Germany,Tablet,19,1,0
+BKG00054,CUST0117,Copenhagen,2023-10-04,2024-10-29,Confirmed,7829,Website,Consultant_13,Spain,Tablet,16,3,2
+BKG00055,CUST0354,Seoul,2023-07-23,2023-09-22,Pending,7457,Website,Consultant_1,Spain,Tablet,11,4,2
+BKG00056,CUST0228,Dubai,2023-07-13,2024-03-21,Confirmed,1504,Phone,Consultant_11,USA,Mobile,5,1,2
+BKG00057,CUST0066,Istanbul,2024-11-11,2024-06-12,Cancelled,2999,Agent,Consultant_1,Italy,Tablet,15,1,2
+BKG00058,CUST0335,Oslo,2024-10-25,2024-10-25,Confirmed,5825,Phone,Consultant_11,Italy,Desktop,5,3,0
+BKG00059,CUST0418,Bangkok,2024-06-30,2024-11-10,Confirmed,7233,App,Consultant_18,Netherlands,Tablet,13,4,2
+BKG00060,CUST0420,Lisbon,2024-11-26,2023-05-25,Confirmed,5635,Website,Consultant_18,Germany,Desktop,4,3,1
+BKG00061,CUST0262,Paris,2023-10-13,2024-12-04,Confirmed,826,App,Consultant_16,USA,Mobile,17,3,2
+BKG00062,CUST0295,Seoul,2023-02-26,2025-01-12,Pending,5203,App,Consultant_13,Germany,Desktop,15,2,1
+BKG00063,CUST0426,Barcelona,2023-10-30,2023-09-21,Confirmed,3206,Website,Consultant_7,UK,Desktop,18,2,1
+BKG00064,CUST0243,Oslo,2023-06-12,2024-07-23,Confirmed,501,Agent,Consultant_1,UK,Desktop,20,3,2
+BKG00065,CUST0371,Milan,2023-01-19,2023-02-10,Confirmed,1533,Phone,Consultant_16,UK,Mobile,9,2,2
+BKG00066,CUST0186,Copenhagen,2024-01-05,2023-08-24,Confirmed,2981,App,Consultant_1,Germany,Mobile,15,1,0
+BKG00067,CUST0246,Prague,2023-09-21,2024-12-09,Confirmed,624,Website,Consultant_17,Spain,Mobile,6,3,1
+BKG00068,CUST0125,Dubai,2023-04-23,2023-10-04,Cancelled,1604,App,Consultant_6,USA,Mobile,11,4,2
+BKG00069,CUST0268,Sydney,2024-05-02,2024-08-11,Cancelled,7128,Phone,Consultant_2,Italy,Tablet,12,4,0
+BKG00070,CUST0131,Rio,2023-11-23,2025-02-26,Confirmed,3199,Agent,Consultant_17,Spain,Mobile,11,1,2
+BKG00071,CUST0237,Lisbon,2024-06-25,2023-06-06,Confirmed,2361,Agent,Consultant_6,France,Desktop,9,4,2
+BKG00072,CUST0018,Sydney,2024-10-08,2023-06-26,Confirmed,5769,Agent,Consultant_14,USA,Mobile,17,4,2
+BKG00073,CUST0040,Vienna,2024-08-01,2023-05-28,Confirmed,7443,Website,Consultant_18,USA,Tablet,10,3,1
+BKG00074,CUST0021,New York,2023-03-06,2024-02-16,Confirmed,3420,Website,Consultant_6,Italy,Tablet,13,1,2
+BKG00075,CUST0399,Toronto,2023-10-19,2024-03-17,Confirmed,628,Agent,Consultant_10,France,Tablet,7,3,0
+BKG00076,CUST0225,Vienna,2023-01-25,2024-11-24,Confirmed,937,Phone,Consultant_18,USA,Desktop,4,1,2
+BKG00077,CUST0355,Paris,2024-07-02,2024-09-05,Confirmed,5346,Phone,Consultant_9,Spain,Mobile,12,3,2
+BKG00078,CUST0282,Dubai,2023-01-01,2024-01-28,Confirmed,3048,Website,Consultant_8,Netherlands,Mobile,18,3,0
+BKG00079,CUST0008,Lisbon,2024-07-02,2024-06-22,Confirmed,3629,Agent,Consultant_10,Netherlands,Mobile,15,2,0
+BKG00080,CUST0100,Barcelona,2023-05-21,2023-06-16,Confirmed,1721,Phone,Consultant_17,Germany,Desktop,10,4,1
+BKG00081,CUST0240,Paris,2024-10-09,2023-07-24,Confirmed,6854,Phone,Consultant_6,Germany,Desktop,11,1,1
+BKG00082,CUST0478,Berlin,2023-07-07,2023-11-15,Cancelled,1401,Phone,Consultant_14,Italy,Tablet,13,4,1
+BKG00083,CUST0087,Vienna,2023-05-08,2024-05-25,Confirmed,6688,Website,Consultant_6,USA,Tablet,13,2,1
+BKG00084,CUST0298,Barcelona,2023-07-20,2023-02-18,Confirmed,3668,Agent,Consultant_7,France,Mobile,18,1,0
+BKG00085,CUST0428,New York,2023-05-07,2023-08-13,Confirmed,5898,App,Consultant_12,France,Desktop,12,2,2
+BKG00086,CUST0014,Rome,2023-09-14,2023-12-26,Cancelled,7178,Agent,Consultant_3,Italy,Desktop,14,4,2
+BKG00087,CUST0334,Bangkok,2024-11-06,2023-07-24,Confirmed,6029,Agent,Consultant_14,UK,Mobile,8,3,2
+BKG00088,CUST0002,Rio,2024-06-30,2024-04-23,Confirmed,7104,Website,Consultant_19,Spain,Mobile,14,2,1
+BKG00089,CUST0375,New York,2023-07-13,2024-01-19,Confirmed,4986,Phone,Consultant_16,Germany,Tablet,12,2,0
+BKG00090,CUST0293,Helsinki,2023-04-14,2024-06-12,Cancelled,4418,Phone,Consultant_7,USA,Tablet,20,3,0
+BKG00091,CUST0325,Cape Town,2024-06-18,2023-06-20,Pending,1567,Website,Consultant_8,USA,Tablet,20,4,0
+BKG00092,CUST0422,Prague,2023-09-22,2025-02-26,Confirmed,526,Website,Consultant_18,France,Mobile,6,2,2
+BKG00093,CUST0493,Rome,2024-01-19,2023-05-03,Cancelled,7437,Website,Consultant_13,Italy,Mobile,11,4,1
+BKG00094,CUST0041,Tokyo,2023-09-17,2023-09-26,Pending,7764,Website,Consultant_9,France,Tablet,9,3,0
+BKG00095,CUST0318,Toronto,2024-02-18,2023-08-23,Pending,7618,Website,Consultant_10,France,Tablet,20,1,1
+BKG00096,CUST0316,Istanbul,2023-12-24,2024-08-12,Confirmed,1047,App,Consultant_9,UK,Desktop,10,2,0
+BKG00097,CUST0381,Tokyo,2023-03-16,2024-04-07,Confirmed,3168,Agent,Consultant_15,France,Desktop,13,4,1
+BKG00098,CUST0111,Athens,2023-12-21,2023-10-02,Confirmed,1066,Agent,Consultant_20,Germany,Tablet,9,3,0
+BKG00099,CUST0014,Berlin,2024-08-06,2025-05-11,Cancelled,1203,Agent,Consultant_2,Netherlands,Tablet,11,3,1
+BKG00100,CUST0231,Oslo,2023-07-07,2023-12-13,Confirmed,5838,Phone,Consultant_13,Italy,Desktop,10,2,0
+BKG00101,CUST0473,New York,2024-11-15,2023-11-21,Confirmed,4780,App,Consultant_2,Germany,Tablet,5,1,0
+BKG00102,CUST0084,Oslo,2023-10-17,2024-10-31,Confirmed,3640,Agent,Consultant_19,Italy,Desktop,19,2,1
+BKG00103,CUST0130,Dubai,2023-02-14,2025-06-04,Cancelled,7797,Phone,Consultant_2,USA,Desktop,4,4,1
+BKG00104,CUST0231,San Francisco,2024-07-26,2023-11-08,Cancelled,2090,App,Consultant_3,Spain,Desktop,17,3,2
+BKG00105,CUST0326,Cape Town,2023-03-24,2023-02-16,Confirmed,6509,App,Consultant_6,France,Mobile,16,1,1
+BKG00106,CUST0145,Cape Town,2023-05-03,2023-04-11,Cancelled,5443,Phone,Consultant_3,UK,Mobile,20,4,0
+BKG00107,CUST0379,Rio,2023-12-24,2023-10-26,Confirmed,5194,App,Consultant_10,Germany,Tablet,18,2,0
+BKG00108,CUST0345,Rome,2024-06-11,2023-12-21,Cancelled,1305,Phone,Consultant_6,Italy,Desktop,6,3,1
+BKG00109,CUST0028,Helsinki,2023-03-07,2025-04-03,Confirmed,4291,Agent,Consultant_16,Netherlands,Mobile,8,2,2
+BKG00110,CUST0066,Rio,2024-10-18,2023-12-01,Confirmed,1857,Phone,Consultant_17,Italy,Tablet,8,1,1
+BKG00111,CUST0163,Athens,2024-01-10,2024-04-25,Pending,3725,App,Consultant_19,USA,Tablet,13,1,0
+BKG00112,CUST0229,Bangkok,2023-06-11,2023-02-06,Confirmed,4118,Agent,Consultant_3,Italy,Tablet,19,1,0
+BKG00113,CUST0261,Toronto,2024-01-15,2023-12-10,Cancelled,2626,Agent,Consultant_18,USA,Tablet,5,1,2
+BKG00114,CUST0449,Milan,2024-10-17,2025-04-26,Confirmed,7222,Website,Consultant_7,USA,Tablet,15,1,1
+BKG00115,CUST0424,Copenhagen,2023-12-24,2023-05-13,Confirmed,6474,Website,Consultant_9,Italy,Desktop,5,2,0
+BKG00116,CUST0460,Amsterdam,2023-07-07,2025-04-30,Confirmed,2960,App,Consultant_20,Spain,Tablet,18,1,0
+BKG00117,CUST0440,Seoul,2023-11-18,2023-08-11,Confirmed,1045,Phone,Consultant_12,Italy,Desktop,17,1,0
+BKG00118,CUST0164,Milan,2024-03-25,2025-02-21,Confirmed,6228,Phone,Consultant_5,USA,Mobile,13,3,1
+BKG00119,CUST0301,Lisbon,2024-04-18,2024-08-26,Confirmed,6812,App,Consultant_3,Italy,Tablet,20,1,1
+BKG00120,CUST0407,Berlin,2023-01-13,2024-07-12,Confirmed,3228,Agent,Consultant_11,Italy,Mobile,17,3,2
+BKG00121,CUST0303,Sydney,2023-07-03,2023-07-20,Confirmed,4234,App,Consultant_4,Spain,Desktop,7,3,0
+BKG00122,CUST0287,Berlin,2023-04-21,2024-07-20,Pending,7226,App,Consultant_5,Netherlands,Desktop,18,3,0
+BKG00123,CUST0395,Athens,2024-05-22,2023-10-08,Pending,3062,Agent,Consultant_1,Netherlands,Mobile,18,2,2
+BKG00124,CUST0010,New York,2023-10-17,2025-03-05,Confirmed,7981,Phone,Consultant_18,Netherlands,Tablet,19,2,0
+BKG00125,CUST0195,Seoul,2023-10-22,2024-02-21,Cancelled,2579,App,Consultant_12,Spain,Tablet,11,4,2
+BKG00126,CUST0118,Oslo,2024-03-26,2023-08-25,Confirmed,6930,Phone,Consultant_13,Italy,Mobile,5,4,2
+BKG00127,CUST0270,Barcelona,2023-08-03,2024-07-24,Confirmed,3141,App,Consultant_9,Spain,Mobile,15,3,0
+BKG00128,CUST0080,Lisbon,2024-09-23,2024-10-20,Cancelled,3614,Agent,Consultant_2,Spain,Mobile,5,2,1
+BKG00129,CUST0458,Amsterdam,2024-07-20,2024-03-21,Pending,2426,Agent,Consultant_5,Netherlands,Tablet,9,1,1
+BKG00130,CUST0093,Helsinki,2023-01-27,2025-04-03,Confirmed,1116,Website,Consultant_13,Italy,Tablet,8,4,1
+BKG00131,CUST0266,Oslo,2024-09-21,2024-02-14,Cancelled,7668,Agent,Consultant_16,UK,Tablet,11,2,1
+BKG00132,CUST0332,Vienna,2023-08-19,2023-06-23,Confirmed,4144,Website,Consultant_16,Netherlands,Mobile,14,1,0
+BKG00133,CUST0350,Prague,2024-07-18,2023-02-24,Pending,6913,App,Consultant_3,Italy,Tablet,17,1,2
+BKG00134,CUST0361,Helsinki,2023-11-17,2025-05-01,Confirmed,1703,Phone,Consultant_4,Netherlands,Desktop,5,2,2
+BKG00135,CUST0257,New York,2023-08-21,2024-11-28,Confirmed,2259,Agent,Consultant_11,France,Mobile,12,4,0
+BKG00136,CUST0133,Amsterdam,2024-10-31,2023-04-13,Confirmed,3065,Agent,Consultant_14,UK,Tablet,3,2,1
+BKG00137,CUST0276,Cape Town,2024-03-12,2024-10-23,Confirmed,3674,Agent,Consultant_3,Italy,Mobile,15,4,2
+BKG00138,CUST0264,Berlin,2024-06-16,2025-05-03,Confirmed,3581,App,Consultant_16,Spain,Desktop,14,3,0
+BKG00139,CUST0171,Rio,2024-02-07,2025-05-12,Pending,3130,Website,Consultant_15,UK,Desktop,3,2,0
+BKG00140,CUST0460,Istanbul,2023-02-22,2023-05-03,Confirmed,3661,App,Consultant_10,UK,Mobile,18,2,1
+BKG00141,CUST0001,Athens,2023-11-09,2024-06-18,Confirmed,4821,Phone,Consultant_9,USA,Mobile,17,4,0
+BKG00142,CUST0313,San Francisco,2023-10-08,2024-09-19,Confirmed,1169,App,Consultant_11,Italy,Desktop,18,4,2
+BKG00143,CUST0064,Copenhagen,2023-01-31,2024-01-01,Confirmed,6359,Phone,Consultant_16,Germany,Mobile,13,2,2
+BKG00144,CUST0374,Prague,2023-12-03,2024-03-30,Confirmed,5512,Agent,Consultant_10,UK,Desktop,8,1,0
+BKG00145,CUST0468,Berlin,2023-07-02,2024-06-12,Confirmed,6769,Phone,Consultant_17,Spain,Desktop,13,1,2
+BKG00146,CUST0284,Cape Town,2023-01-23,2024-01-29,Confirmed,7599,Phone,Consultant_19,Germany,Tablet,5,1,0
+BKG00147,CUST0121,Barcelona,2024-06-27,2024-10-21,Confirmed,7876,Website,Consultant_2,Spain,Mobile,17,3,2
+BKG00148,CUST0107,Seoul,2024-03-21,2025-02-13,Confirmed,3668,Phone,Consultant_2,UK,Mobile,3,3,1
+BKG00149,CUST0421,Lisbon,2023-03-15,2023-08-17,Cancelled,2621,Phone,Consultant_6,France,Tablet,9,4,2
+BKG00150,CUST0175,Toronto,2023-01-10,2025-01-17,Cancelled,5810,App,Consultant_19,France,Desktop,3,3,1
+BKG00151,CUST0485,Copenhagen,2024-04-28,2024-03-18,Confirmed,4578,Agent,Consultant_8,UK,Mobile,19,1,1
+BKG00152,CUST0204,Athens,2024-03-31,2024-01-04,Confirmed,6301,App,Consultant_3,France,Tablet,11,2,0
+BKG00153,CUST0165,Berlin,2024-07-19,2024-11-19,Confirmed,6438,App,Consultant_14,Spain,Tablet,15,3,1
+BKG00154,CUST0305,Seoul,2024-07-17,2024-04-03,Confirmed,6579,Agent,Consultant_16,Germany,Mobile,13,3,2
+BKG00155,CUST0497,Seoul,2024-10-21,2025-03-23,Confirmed,4651,Agent,Consultant_1,Spain,Tablet,8,1,2
+BKG00156,CUST0120,Rome,2023-06-09,2023-06-18,Confirmed,1219,Phone,Consultant_3,UK,Desktop,3,3,1
+BKG00157,CUST0044,Madrid,2023-01-14,2024-12-23,Confirmed,3100,Phone,Consultant_18,Germany,Tablet,9,4,0
+BKG00158,CUST0312,Milan,2023-06-27,2024-07-25,Confirmed,6675,Website,Consultant_9,Germany,Desktop,14,2,1
+BKG00159,CUST0156,Milan,2024-02-16,2023-03-28,Confirmed,4098,App,Consultant_6,Spain,Desktop,19,1,2
+BKG00160,CUST0367,San Francisco,2023-02-22,2023-09-19,Cancelled,5169,Agent,Consultant_1,Netherlands,Mobile,6,4,2
+BKG00161,CUST0207,Cape Town,2024-02-12,2024-11-18,Pending,1166,Phone,Consultant_10,Italy,Tablet,5,1,1
+BKG00162,CUST0390,Milan,2023-01-22,2024-04-09,Confirmed,783,Agent,Consultant_6,USA,Desktop,3,4,1
+BKG00163,CUST0108,Oslo,2023-01-30,2024-02-18,Confirmed,6340,Phone,Consultant_12,France,Desktop,20,2,1
+BKG00164,CUST0251,Seoul,2023-09-17,2024-08-12,Cancelled,4403,Website,Consultant_4,France,Tablet,17,2,2
+BKG00165,CUST0445,Istanbul,2023-07-24,2023-08-12,Pending,4065,Website,Consultant_13,Spain,Desktop,10,4,2
+BKG00166,CUST0404,Dubai,2023-02-28,2025-02-04,Confirmed,2734,Agent,Consultant_17,UK,Tablet,3,4,2
+BKG00167,CUST0370,Amsterdam,2024-04-15,2024-11-08,Confirmed,5093,Website,Consultant_8,Germany,Mobile,16,4,0
+BKG00168,CUST0334,Helsinki,2024-04-10,2024-07-17,Confirmed,1965,Agent,Consultant_20,Italy,Desktop,6,4,2
+BKG00169,CUST0130,Berlin,2023-01-12,2024-07-01,Confirmed,629,Phone,Consultant_3,UK,Desktop,7,4,2
+BKG00170,CUST0457,Milan,2024-09-22,2025-01-15,Confirmed,5234,App,Consultant_12,Netherlands,Tablet,15,4,0
+BKG00171,CUST0293,Toronto,2023-10-17,2025-02-19,Confirmed,7959,Website,Consultant_7,France,Tablet,17,2,0
+BKG00172,CUST0020,Istanbul,2023-12-20,2023-08-03,Confirmed,6757,Phone,Consultant_12,Spain,Tablet,8,4,0
+BKG00173,CUST0282,Berlin,2024-09-30,2023-11-18,Confirmed,7866,App,Consultant_2,Spain,Tablet,3,3,0
+BKG00174,CUST0285,Copenhagen,2023-03-16,2023-12-31,Cancelled,2560,App,Consultant_14,USA,Desktop,15,2,0
+BKG00175,CUST0001,San Francisco,2024-07-14,2025-01-31,Confirmed,7938,App,Consultant_5,Italy,Mobile,8,1,0
+BKG00176,CUST0119,Copenhagen,2024-08-13,2023-05-26,Confirmed,4172,Phone,Consultant_9,Germany,Mobile,17,2,1
+BKG00177,CUST0035,Paris,2024-03-16,2025-05-04,Confirmed,7882,Phone,Consultant_11,Germany,Mobile,18,1,1
+BKG00178,CUST0198,Madrid,2023-08-29,2023-03-20,Confirmed,7087,Agent,Consultant_5,Germany,Mobile,18,1,1
+BKG00179,CUST0485,Athens,2023-06-03,2024-12-15,Pending,2994,App,Consultant_3,USA,Tablet,12,3,1
+BKG00180,CUST0245,San Francisco,2023-04-06,2023-04-22,Confirmed,5581,App,Consultant_17,UK,Desktop,11,4,2
+BKG00181,CUST0059,Sydney,2023-10-21,2025-05-13,Confirmed,1492,App,Consultant_2,Spain,Desktop,11,4,0
+BKG00182,CUST0325,Bangkok,2023-07-28,2023-12-29,Cancelled,7358,Agent,Consultant_1,UK,Desktop,19,2,2
+BKG00183,CUST0161,Rio,2023-12-09,2024-08-09,Confirmed,2621,App,Consultant_7,France,Tablet,19,4,0
+BKG00184,CUST0497,Oslo,2023-03-29,2023-12-31,Pending,3084,Phone,Consultant_14,UK,Desktop,19,3,0
+BKG00185,CUST0179,Istanbul,2024-01-25,2024-07-15,Confirmed,4696,App,Consultant_5,Netherlands,Tablet,14,2,2
+BKG00186,CUST0206,Paris,2023-11-21,2023-09-08,Confirmed,2723,Website,Consultant_19,USA,Desktop,15,2,1
+BKG00187,CUST0012,San Francisco,2023-06-06,2024-10-26,Confirmed,5022,Phone,Consultant_11,USA,Mobile,14,2,2
+BKG00188,CUST0490,Amsterdam,2024-10-29,2025-02-14,Confirmed,3688,Agent,Consultant_2,Germany,Tablet,16,4,2
+BKG00189,CUST0276,Berlin,2024-10-12,2025-02-01,Cancelled,3737,App,Consultant_8,Italy,Desktop,12,4,0
+BKG00190,CUST0181,Athens,2024-09-24,2023-12-19,Cancelled,4636,Website,Consultant_9,Italy,Mobile,4,4,0
+BKG00191,CUST0242,Toronto,2024-07-30,2025-05-30,Confirmed,5024,Agent,Consultant_3,Italy,Mobile,6,2,0
+BKG00192,CUST0216,Sydney,2024-09-10,2023-02-02,Confirmed,843,Agent,Consultant_2,Netherlands,Mobile,9,2,1
+BKG00193,CUST0251,Sydney,2024-10-20,2024-12-24,Cancelled,4961,Phone,Consultant_7,France,Tablet,17,1,2
+BKG00194,CUST0299,Amsterdam,2023-05-17,2023-08-24,Pending,7787,Agent,Consultant_5,Spain,Tablet,17,1,2
+BKG00195,CUST0126,Sydney,2024-11-04,2025-05-11,Confirmed,5204,Agent,Consultant_5,Germany,Desktop,8,4,1
+BKG00196,CUST0482,Cape Town,2024-03-03,2023-03-11,Confirmed,7300,Agent,Consultant_20,UK,Mobile,5,2,2
+BKG00197,CUST0217,Bangkok,2024-03-27,2023-03-30,Confirmed,5323,Agent,Consultant_13,Spain,Desktop,8,4,2
+BKG00198,CUST0306,Prague,2024-09-03,2024-08-26,Cancelled,2776,App,Consultant_20,Netherlands,Desktop,18,4,0
+BKG00199,CUST0285,Tokyo,2023-05-21,2024-11-04,Confirmed,5420,App,Consultant_6,Germany,Mobile,4,1,1
+BKG00200,CUST0185,Toronto,2023-03-24,2024-06-20,Confirmed,3701,App,Consultant_20,Germany,Desktop,9,3,0
+BKG00201,CUST0039,Lisbon,2023-06-26,2024-08-24,Cancelled,5971,App,Consultant_18,France,Tablet,13,4,1
+BKG00202,CUST0223,Rio,2023-07-17,2025-05-22,Confirmed,1388,Website,Consultant_2,Italy,Desktop,9,3,0
+BKG00203,CUST0184,Athens,2024-09-15,2023-06-01,Confirmed,2543,App,Consultant_6,Netherlands,Mobile,6,3,2
+BKG00204,CUST0495,New York,2024-07-21,2024-05-23,Confirmed,1841,Agent,Consultant_9,France,Tablet,9,2,1
+BKG00205,CUST0427,Madrid,2024-11-21,2024-10-10,Confirmed,7627,App,Consultant_3,USA,Tablet,6,2,1
+BKG00206,CUST0178,Barcelona,2024-02-25,2023-05-06,Confirmed,4220,App,Consultant_1,France,Desktop,14,4,0
+BKG00207,CUST0407,Istanbul,2024-02-05,2025-06-07,Confirmed,3383,Phone,Consultant_1,France,Desktop,7,1,1
+BKG00208,CUST0428,Bangkok,2024-11-28,2024-03-19,Confirmed,5892,Agent,Consultant_19,UK,Tablet,7,1,2
+BKG00209,CUST0294,San Francisco,2024-04-15,2023-09-22,Confirmed,4712,App,Consultant_5,France,Desktop,5,4,2
+BKG00210,CUST0340,Oslo,2023-08-06,2023-04-02,Cancelled,7461,App,Consultant_13,Germany,Mobile,13,4,2
+BKG00211,CUST0151,Istanbul,2024-09-23,2023-10-13,Cancelled,2915,App,Consultant_19,Netherlands,Desktop,9,1,0
+BKG00212,CUST0384,Amsterdam,2023-06-24,2024-08-13,Confirmed,1617,Website,Consultant_12,Italy,Desktop,19,3,1
+BKG00213,CUST0126,San Francisco,2023-01-23,2024-01-13,Confirmed,4763,App,Consultant_16,Germany,Tablet,11,4,0
+BKG00214,CUST0301,Istanbul,2023-08-23,2024-12-01,Confirmed,3501,Phone,Consultant_19,Spain,Desktop,11,3,2
+BKG00215,CUST0308,Milan,2023-01-13,2023-06-03,Confirmed,2238,Agent,Consultant_3,UK,Desktop,12,4,1
+BKG00216,CUST0336,Helsinki,2023-04-11,2024-05-26,Confirmed,1864,Agent,Consultant_12,Italy,Desktop,15,4,2
+BKG00217,CUST0434,Milan,2024-06-19,2023-12-13,Confirmed,3208,App,Consultant_5,France,Mobile,17,3,1
+BKG00218,CUST0234,New York,2024-06-06,2024-06-17,Confirmed,5290,App,Consultant_2,France,Desktop,7,3,1
+BKG00219,CUST0380,Barcelona,2024-03-27,2025-01-18,Confirmed,1424,App,Consultant_7,Germany,Mobile,5,1,0
+BKG00220,CUST0375,Cape Town,2024-03-06,2023-03-19,Confirmed,651,Agent,Consultant_13,Germany,Mobile,10,4,1
+BKG00221,CUST0008,Milan,2024-08-28,2024-03-14,Confirmed,1085,Agent,Consultant_15,Spain,Mobile,12,2,2
+BKG00222,CUST0498,Lisbon,2024-06-16,2023-06-15,Confirmed,1412,Website,Consultant_3,France,Mobile,15,2,1
+BKG00223,CUST0341,Lisbon,2024-10-13,2023-08-19,Confirmed,2821,Phone,Consultant_20,France,Tablet,5,4,2
+BKG00224,CUST0129,Athens,2023-10-20,2023-10-07,Confirmed,6173,Website,Consultant_5,Netherlands,Mobile,10,4,0
+BKG00225,CUST0264,San Francisco,2023-04-11,2023-12-10,Cancelled,995,Phone,Consultant_8,Germany,Desktop,11,4,2
+BKG00226,CUST0157,Helsinki,2024-05-16,2025-06-17,Cancelled,4295,Website,Consultant_1,USA,Mobile,14,3,1
+BKG00227,CUST0352,New York,2023-10-31,2024-02-02,Confirmed,2648,Agent,Consultant_8,Spain,Desktop,13,2,2
+BKG00228,CUST0358,Lisbon,2024-06-23,2024-04-03,Confirmed,1056,Website,Consultant_18,Spain,Mobile,4,2,2
+BKG00229,CUST0005,Berlin,2024-07-06,2025-05-09,Confirmed,5701,Phone,Consultant_20,Italy,Tablet,20,2,1
+BKG00230,CUST0495,Amsterdam,2023-12-21,2025-04-16,Confirmed,2052,App,Consultant_16,France,Mobile,11,4,2
+BKG00231,CUST0086,Berlin,2023-10-30,2024-05-24,Confirmed,2620,Phone,Consultant_18,Italy,Mobile,4,3,1
+BKG00232,CUST0175,Prague,2024-05-10,2023-12-10,Cancelled,3585,App,Consultant_20,Netherlands,Tablet,4,4,0
+BKG00233,CUST0290,Prague,2024-10-19,2024-06-13,Confirmed,4004,Agent,Consultant_12,Germany,Mobile,5,1,2
+BKG00234,CUST0193,Madrid,2023-08-15,2025-01-20,Cancelled,656,Phone,Consultant_13,USA,Desktop,18,1,0
+BKG00235,CUST0311,Barcelona,2023-08-24,2024-01-20,Confirmed,1234,Website,Consultant_13,Germany,Mobile,6,2,2
+BKG00236,CUST0119,Paris,2024-03-30,2024-05-29,Confirmed,6775,Phone,Consultant_10,Netherlands,Mobile,20,4,2
+BKG00237,CUST0218,Seoul,2023-01-13,2023-08-29,Cancelled,7662,App,Consultant_7,Spain,Mobile,20,1,0
+BKG00238,CUST0427,Rio,2023-07-29,2025-01-03,Confirmed,6023,Agent,Consultant_14,Germany,Tablet,12,1,2
+BKG00239,CUST0458,Berlin,2024-02-01,2023-03-15,Confirmed,5154,Website,Consultant_16,Netherlands,Mobile,13,4,2
+BKG00240,CUST0414,Amsterdam,2023-04-10,2024-07-24,Confirmed,6750,Phone,Consultant_15,France,Mobile,19,3,0
+BKG00241,CUST0114,Tokyo,2023-01-31,2024-08-23,Confirmed,6908,App,Consultant_12,Germany,Desktop,18,4,2
+BKG00242,CUST0466,Oslo,2024-06-11,2024-09-04,Pending,3776,Website,Consultant_9,France,Mobile,15,4,1
+BKG00243,CUST0145,Cape Town,2024-10-10,2023-05-02,Confirmed,7746,Agent,Consultant_8,Italy,Mobile,4,3,2
+BKG00244,CUST0026,Dubai,2023-11-25,2023-10-22,Pending,654,Website,Consultant_18,Italy,Mobile,4,2,2
+BKG00245,CUST0136,Rio,2023-06-15,2023-09-07,Pending,7631,Agent,Consultant_18,Spain,Mobile,16,2,2
+BKG00246,CUST0303,Athens,2024-04-03,2024-04-16,Cancelled,1496,Website,Consultant_13,France,Desktop,6,2,0
+BKG00247,CUST0232,Seoul,2023-04-10,2024-03-06,Confirmed,2794,Phone,Consultant_18,UK,Desktop,19,3,1
+BKG00248,CUST0369,Rio,2024-09-12,2024-03-05,Confirmed,5126,App,Consultant_15,Spain,Tablet,15,1,1
+BKG00249,CUST0076,Berlin,2023-06-22,2025-01-26,Cancelled,3405,Phone,Consultant_4,Germany,Mobile,6,3,2
+BKG00250,CUST0475,Helsinki,2023-06-11,2025-03-29,Confirmed,6567,Phone,Consultant_17,Italy,Tablet,5,4,0
+BKG00251,CUST0328,Seoul,2023-09-20,2024-08-28,Confirmed,7181,Agent,Consultant_5,Italy,Tablet,14,3,0
+BKG00252,CUST0345,Dubai,2023-10-01,2025-06-06,Confirmed,5324,Agent,Consultant_16,Italy,Mobile,10,1,1
+BKG00253,CUST0302,New York,2023-01-03,2025-04-13,Confirmed,1677,Agent,Consultant_9,Germany,Desktop,4,1,0
+BKG00254,CUST0452,Oslo,2023-01-28,2024-06-03,Confirmed,653,Phone,Consultant_10,UK,Desktop,8,4,2
+BKG00255,CUST0289,Prague,2023-11-22,2024-05-29,Confirmed,4687,Website,Consultant_18,UK,Mobile,12,2,2
+BKG00256,CUST0001,Barcelona,2023-05-29,2025-02-25,Confirmed,6981,Website,Consultant_17,Netherlands,Mobile,14,1,0
+BKG00257,CUST0147,Copenhagen,2024-06-23,2024-05-14,Cancelled,6099,Phone,Consultant_18,France,Desktop,12,1,2
+BKG00258,CUST0287,Cape Town,2024-05-02,2024-08-26,Confirmed,2216,Phone,Consultant_7,Italy,Mobile,12,1,1
+BKG00259,CUST0464,Seoul,2024-03-13,2025-05-23,Pending,3702,App,Consultant_4,Italy,Mobile,5,4,2
+BKG00260,CUST0142,New York,2023-03-06,2024-12-12,Confirmed,7093,Agent,Consultant_5,Italy,Mobile,12,1,0
+BKG00261,CUST0053,Toronto,2023-12-22,2024-04-19,Cancelled,6612,Agent,Consultant_16,France,Desktop,11,2,1
+BKG00262,CUST0304,Toronto,2024-06-16,2023-10-26,Confirmed,3357,Phone,Consultant_3,Spain,Tablet,16,4,2
+BKG00263,CUST0069,Oslo,2023-09-09,2023-10-24,Cancelled,1286,Phone,Consultant_18,Germany,Tablet,4,2,1
+BKG00264,CUST0361,New York,2023-08-23,2023-03-25,Confirmed,4868,Website,Consultant_14,Italy,Mobile,7,1,0
+BKG00265,CUST0090,Rio,2023-08-15,2024-07-11,Cancelled,6623,Phone,Consultant_15,France,Desktop,10,1,2
+BKG00266,CUST0446,Istanbul,2024-06-08,2024-07-03,Confirmed,7231,Website,Consultant_17,Netherlands,Mobile,9,2,2
+BKG00267,CUST0220,Amsterdam,2023-11-09,2024-10-07,Cancelled,4772,Phone,Consultant_1,France,Desktop,8,4,1
+BKG00268,CUST0450,Dubai,2023-02-18,2023-03-30,Pending,4267,App,Consultant_17,Italy,Mobile,13,4,2
+BKG00269,CUST0498,Tokyo,2023-04-28,2025-05-04,Confirmed,3378,App,Consultant_11,Netherlands,Desktop,14,2,2
+BKG00270,CUST0192,Istanbul,2023-02-23,2023-03-11,Confirmed,1142,Website,Consultant_17,Italy,Desktop,20,1,2
+BKG00271,CUST0454,Berlin,2024-10-11,2023-09-24,Cancelled,6494,Agent,Consultant_14,France,Tablet,12,3,2
+BKG00272,CUST0063,Seoul,2024-07-18,2024-02-20,Confirmed,7716,App,Consultant_20,Netherlands,Mobile,16,2,0
+BKG00273,CUST0073,Bangkok,2023-02-13,2024-09-27,Cancelled,5162,Website,Consultant_19,UK,Tablet,5,2,2
+BKG00274,CUST0161,Athens,2023-02-22,2025-02-02,Confirmed,1165,Phone,Consultant_7,Spain,Tablet,20,2,1
+BKG00275,CUST0169,Madrid,2024-08-08,2025-01-15,Confirmed,3926,Phone,Consultant_13,Spain,Desktop,17,1,0
+BKG00276,CUST0089,Bangkok,2024-07-11,2024-11-10,Pending,4283,Website,Consultant_18,Italy,Mobile,8,4,1
+BKG00277,CUST0176,Rio,2024-06-08,2023-11-26,Confirmed,5927,Agent,Consultant_14,Italy,Desktop,12,1,1
+BKG00278,CUST0269,Helsinki,2024-11-07,2024-02-29,Cancelled,7511,Website,Consultant_1,France,Desktop,14,2,1
+BKG00279,CUST0073,Berlin,2023-04-12,2023-08-25,Confirmed,4201,Website,Consultant_7,UK,Desktop,9,1,0
+BKG00280,CUST0245,Madrid,2024-02-02,2024-01-01,Confirmed,6394,App,Consultant_8,UK,Mobile,19,1,0
+BKG00281,CUST0077,Paris,2023-05-18,2024-09-14,Confirmed,1569,Website,Consultant_18,France,Mobile,3,2,0
+BKG00282,CUST0159,Prague,2024-11-05,2025-01-29,Confirmed,2849,Website,Consultant_9,Netherlands,Desktop,20,1,2
+BKG00283,CUST0489,Amsterdam,2024-01-22,2024-06-27,Confirmed,7511,Phone,Consultant_1,Italy,Mobile,17,3,1
+BKG00284,CUST0459,Sydney,2023-04-21,2023-07-27,Confirmed,7555,App,Consultant_17,USA,Desktop,3,1,0
+BKG00285,CUST0324,Madrid,2024-09-05,2024-03-01,Confirmed,5003,Phone,Consultant_19,Italy,Mobile,7,1,1
+BKG00286,CUST0098,Seoul,2023-01-17,2024-02-05,Confirmed,1712,Phone,Consultant_6,USA,Mobile,17,4,0
+BKG00287,CUST0381,Bangkok,2023-07-01,2025-06-06,Cancelled,7465,Agent,Consultant_3,UK,Tablet,5,4,0
+BKG00288,CUST0102,Athens,2024-06-19,2025-03-31,Confirmed,6449,Agent,Consultant_5,Netherlands,Desktop,3,2,0
+BKG00289,CUST0494,Seoul,2024-06-24,2024-11-18,Confirmed,1652,App,Consultant_2,Italy,Tablet,10,2,1
+BKG00290,CUST0132,Sydney,2023-06-20,2023-12-14,Confirmed,7204,App,Consultant_20,Italy,Tablet,14,4,2
+BKG00291,CUST0102,Toronto,2024-02-13,2025-02-04,Confirmed,7933,Agent,Consultant_4,Spain,Desktop,14,3,0
+BKG00292,CUST0019,Prague,2024-01-13,2024-02-03,Cancelled,5737,Agent,Consultant_10,USA,Desktop,15,1,0
+BKG00293,CUST0454,Helsinki,2023-07-07,2024-02-18,Confirmed,3011,Agent,Consultant_10,USA,Mobile,3,3,0
+BKG00294,CUST0482,New York,2023-08-18,2023-04-02,Confirmed,643,Agent,Consultant_11,UK,Desktop,8,3,2
+BKG00295,CUST0082,Dubai,2023-04-29,2025-04-15,Confirmed,2989,Agent,Consultant_16,France,Tablet,10,4,1
+BKG00296,CUST0397,Seoul,2023-06-05,2024-06-18,Confirmed,7867,Phone,Consultant_17,Spain,Tablet,6,2,1
+BKG00297,CUST0489,Cape Town,2024-11-17,2023-09-26,Cancelled,3728,App,Consultant_16,UK,Desktop,7,1,1
+BKG00298,CUST0279,Rio,2024-04-09,2023-08-13,Confirmed,5082,Phone,Consultant_7,Italy,Tablet,9,2,1
+BKG00299,CUST0339,Lisbon,2023-04-14,2024-12-08,Cancelled,5455,Phone,Consultant_16,Spain,Mobile,6,3,0
+BKG00300,CUST0365,Helsinki,2024-08-26,2023-09-09,Confirmed,3705,Website,Consultant_3,Germany,Tablet,6,3,2
+BKG00301,CUST0331,Madrid,2024-11-28,2023-04-01,Confirmed,6531,Phone,Consultant_16,Germany,Mobile,17,2,0
+BKG00302,CUST0129,Lisbon,2024-05-16,2023-06-08,Pending,4743,Agent,Consultant_8,UK,Tablet,7,2,2
+BKG00303,CUST0344,Barcelona,2024-11-23,2024-12-15,Confirmed,5955,Agent,Consultant_12,Italy,Mobile,11,4,1
+BKG00304,CUST0310,Copenhagen,2024-11-12,2023-07-05,Confirmed,3642,Website,Consultant_3,UK,Mobile,4,2,2
+BKG00305,CUST0455,Lisbon,2024-11-29,2024-02-12,Confirmed,3804,Website,Consultant_17,Netherlands,Desktop,9,2,0
+BKG00306,CUST0089,Seoul,2023-06-24,2024-10-13,Confirmed,1857,Website,Consultant_18,Netherlands,Mobile,19,4,0
+BKG00307,CUST0213,San Francisco,2024-11-04,2025-03-21,Confirmed,7454,Website,Consultant_11,France,Desktop,18,2,1
+BKG00308,CUST0143,Milan,2024-02-25,2025-06-16,Confirmed,3213,Website,Consultant_4,Spain,Tablet,19,3,0
+BKG00309,CUST0065,Milan,2023-05-14,2025-03-30,Confirmed,4685,Phone,Consultant_16,France,Tablet,4,2,0
+BKG00310,CUST0076,Rio,2024-01-26,2024-09-07,Confirmed,1857,Website,Consultant_17,Netherlands,Tablet,13,1,2
+BKG00311,CUST0199,Helsinki,2024-05-15,2024-04-11,Confirmed,4794,Phone,Consultant_9,France,Mobile,4,3,0
+BKG00312,CUST0143,Dubai,2024-10-26,2023-08-25,Confirmed,7828,App,Consultant_6,Netherlands,Tablet,3,4,1
+BKG00313,CUST0405,Rio,2023-02-02,2024-02-22,Confirmed,5133,Website,Consultant_20,France,Tablet,4,3,1
+BKG00314,CUST0403,Tokyo,2023-02-24,2024-05-24,Confirmed,3692,Website,Consultant_2,Netherlands,Desktop,11,4,0
+BKG00315,CUST0316,Paris,2024-06-02,2025-03-31,Pending,800,Phone,Consultant_9,Spain,Desktop,4,1,1
+BKG00316,CUST0093,Madrid,2024-09-29,2025-05-17,Confirmed,1223,App,Consultant_6,UK,Tablet,17,1,2
+BKG00317,CUST0473,Helsinki,2023-01-12,2024-01-05,Cancelled,6194,Phone,Consultant_3,Germany,Tablet,12,3,2
+BKG00318,CUST0417,Berlin,2024-06-11,2025-06-17,Confirmed,3510,Phone,Consultant_20,UK,Mobile,17,2,0
+BKG00319,CUST0305,New York,2024-07-08,2024-01-05,Confirmed,6055,Website,Consultant_6,UK,Mobile,12,3,0
+BKG00320,CUST0224,Rio,2024-01-08,2023-08-22,Confirmed,567,Agent,Consultant_7,Germany,Tablet,19,3,2
+BKG00321,CUST0497,Prague,2024-04-28,2023-07-10,Confirmed,4336,Agent,Consultant_1,Spain,Desktop,11,1,1
+BKG00322,CUST0291,Oslo,2024-10-08,2024-07-23,Confirmed,4493,Phone,Consultant_1,France,Tablet,20,4,0
+BKG00323,CUST0428,Copenhagen,2023-08-16,2024-02-26,Confirmed,3006,Website,Consultant_5,Germany,Mobile,6,3,0
+BKG00324,CUST0102,Paris,2024-09-14,2025-03-09,Confirmed,2037,App,Consultant_6,Spain,Desktop,11,2,1
+BKG00325,CUST0474,San Francisco,2023-11-03,2024-12-07,Pending,897,Agent,Consultant_13,Germany,Desktop,18,1,0
+BKG00326,CUST0267,Seoul,2024-04-01,2024-08-27,Confirmed,5215,App,Consultant_2,Spain,Mobile,6,3,1
+BKG00327,CUST0355,Rome,2023-06-09,2024-07-17,Confirmed,3857,Agent,Consultant_15,France,Tablet,18,3,1
+BKG00328,CUST0456,Bangkok,2023-11-27,2023-04-10,Cancelled,6180,Website,Consultant_15,USA,Tablet,3,2,1
+BKG00329,CUST0110,Tokyo,2023-08-13,2024-03-10,Confirmed,1663,Phone,Consultant_13,Netherlands,Tablet,8,3,1
+BKG00330,CUST0462,Prague,2024-05-18,2024-09-29,Confirmed,5325,App,Consultant_14,France,Mobile,12,3,1
+BKG00331,CUST0330,Oslo,2024-03-31,2024-12-05,Confirmed,1055,App,Consultant_7,France,Desktop,18,3,2
+BKG00332,CUST0450,San Francisco,2023-02-14,2024-09-12,Pending,6548,Phone,Consultant_14,UK,Mobile,6,3,1
+BKG00333,CUST0430,San Francisco,2023-08-02,2024-06-30,Cancelled,7424,App,Consultant_10,UK,Tablet,15,2,2
+BKG00334,CUST0265,Rome,2023-02-28,2025-05-07,Confirmed,4161,Agent,Consultant_17,UK,Mobile,18,3,1
+BKG00335,CUST0003,Amsterdam,2024-10-05,2023-05-30,Confirmed,2251,Phone,Consultant_14,Netherlands,Desktop,8,3,0
+BKG00336,CUST0085,Cape Town,2024-09-07,2025-04-23,Pending,3441,Agent,Consultant_8,USA,Mobile,13,3,2
+BKG00337,CUST0282,Amsterdam,2023-07-14,2024-12-20,Confirmed,3157,Agent,Consultant_4,Spain,Tablet,5,1,0
+BKG00338,CUST0328,Rome,2024-05-03,2024-12-18,Confirmed,3295,Website,Consultant_16,Italy,Desktop,12,2,1
+BKG00339,CUST0304,Paris,2023-06-06,2023-09-04,Confirmed,2829,Agent,Consultant_13,Italy,Mobile,3,1,1
+BKG00340,CUST0450,New York,2024-09-01,2023-03-27,Confirmed,7304,Website,Consultant_20,Netherlands,Mobile,13,1,0
+BKG00341,CUST0454,Helsinki,2023-08-14,2024-01-31,Confirmed,7567,App,Consultant_18,USA,Desktop,14,2,1
+BKG00342,CUST0412,Lisbon,2024-02-16,2024-12-29,Confirmed,5591,App,Consultant_14,Netherlands,Desktop,16,1,0
+BKG00343,CUST0117,Rome,2023-07-24,2024-06-17,Confirmed,2459,Website,Consultant_18,UK,Tablet,10,1,1
+BKG00344,CUST0221,Oslo,2023-03-20,2025-02-12,Confirmed,2101,Agent,Consultant_5,Italy,Desktop,13,1,1
+BKG00345,CUST0154,Toronto,2023-05-04,2025-03-07,Cancelled,3293,Phone,Consultant_9,Netherlands,Tablet,6,2,2
+BKG00346,CUST0153,Rio,2024-04-15,2024-04-29,Confirmed,1980,Phone,Consultant_3,Spain,Mobile,9,3,0
+BKG00347,CUST0012,Rome,2023-08-06,2023-05-14,Confirmed,6730,Website,Consultant_8,USA,Tablet,12,4,1
+BKG00348,CUST0133,New York,2024-05-30,2023-04-17,Confirmed,1602,App,Consultant_20,France,Mobile,6,4,0
+BKG00349,CUST0482,Rome,2024-08-24,2023-09-17,Confirmed,3776,App,Consultant_10,France,Desktop,4,2,2
+BKG00350,CUST0304,Toronto,2023-04-14,2023-10-15,Confirmed,7434,Phone,Consultant_19,USA,Mobile,20,4,0
+BKG00351,CUST0293,Toronto,2024-01-28,2023-10-21,Confirmed,7921,Website,Consultant_3,UK,Desktop,16,2,2
+BKG00352,CUST0463,Milan,2024-09-22,2023-12-27,Cancelled,6947,Phone,Consultant_11,UK,Mobile,18,2,0
+BKG00353,CUST0300,Prague,2024-10-06,2023-07-31,Pending,5999,Agent,Consultant_11,UK,Mobile,13,4,0
+BKG00354,CUST0228,Oslo,2024-08-30,2025-03-08,Confirmed,6773,Agent,Consultant_17,Netherlands,Mobile,12,1,2
+BKG00355,CUST0271,Dubai,2024-03-09,2024-08-02,Confirmed,7239,Website,Consultant_16,Spain,Mobile,19,3,1
+BKG00356,CUST0043,Seoul,2023-11-27,2024-12-18,Confirmed,1799,Website,Consultant_7,Netherlands,Tablet,16,4,1
+BKG00357,CUST0432,Sydney,2023-05-23,2023-02-26,Cancelled,6318,Agent,Consultant_4,France,Mobile,6,4,1
+BKG00358,CUST0343,Vienna,2024-06-23,2023-11-02,Cancelled,7201,App,Consultant_19,USA,Tablet,4,4,0
+BKG00359,CUST0326,Amsterdam,2023-10-05,2024-11-12,Confirmed,5494,Website,Consultant_12,Germany,Desktop,9,4,0
+BKG00360,CUST0302,New York,2023-08-21,2023-11-25,Confirmed,5802,Agent,Consultant_15,UK,Desktop,11,2,1
+BKG00361,CUST0498,Barcelona,2024-06-12,2025-04-08,Cancelled,7935,Agent,Consultant_11,France,Tablet,18,2,0
+BKG00362,CUST0364,Milan,2024-07-24,2023-05-01,Confirmed,4379,App,Consultant_5,France,Desktop,18,3,0
+BKG00363,CUST0379,San Francisco,2023-03-31,2024-05-24,Confirmed,7989,App,Consultant_5,Italy,Desktop,20,3,1
+BKG00364,CUST0427,Prague,2024-05-06,2024-08-25,Confirmed,2035,App,Consultant_15,France,Mobile,13,4,2
+BKG00365,CUST0493,Helsinki,2023-07-18,2024-05-02,Confirmed,577,App,Consultant_18,USA,Mobile,9,4,0
+BKG00366,CUST0021,Athens,2023-12-28,2024-04-25,Cancelled,3331,Phone,Consultant_11,France,Mobile,11,4,0
+BKG00367,CUST0407,Berlin,2024-03-16,2024-01-30,Pending,3910,App,Consultant_12,UK,Tablet,6,3,0
+BKG00368,CUST0107,Cape Town,2023-01-26,2025-06-07,Confirmed,3221,Phone,Consultant_2,France,Tablet,15,4,0
+BKG00369,CUST0336,Athens,2023-01-25,2024-12-05,Confirmed,4127,Website,Consultant_20,Spain,Desktop,6,1,2
+BKG00370,CUST0303,Oslo,2024-01-29,2024-01-16,Confirmed,2032,Agent,Consultant_15,USA,Mobile,4,3,1
+BKG00371,CUST0117,Sydney,2024-05-21,2024-11-15,Confirmed,737,Phone,Consultant_20,Italy,Tablet,11,1,0
+BKG00372,CUST0124,Seoul,2023-10-28,2024-03-05,Confirmed,5753,Website,Consultant_4,France,Tablet,14,4,1
+BKG00373,CUST0399,Vienna,2023-12-05,2023-10-10,Confirmed,2496,Website,Consultant_18,Italy,Mobile,4,2,0
+BKG00374,CUST0281,Helsinki,2023-09-24,2025-03-21,Confirmed,5811,Phone,Consultant_6,France,Tablet,8,1,2
+BKG00375,CUST0292,Sydney,2024-04-05,2025-04-12,Confirmed,3927,Website,Consultant_19,Netherlands,Mobile,7,3,1
+BKG00376,CUST0203,Oslo,2024-11-23,2024-05-03,Confirmed,777,Website,Consultant_11,Germany,Desktop,7,1,2
+BKG00377,CUST0051,Athens,2024-03-31,2024-12-29,Confirmed,3589,Phone,Consultant_2,France,Desktop,7,3,0
+BKG00378,CUST0271,Cape Town,2023-12-26,2024-06-12,Confirmed,1023,Website,Consultant_8,USA,Desktop,6,4,2
+BKG00379,CUST0324,Tokyo,2023-03-09,2024-06-21,Confirmed,4775,App,Consultant_11,UK,Mobile,11,1,2
+BKG00380,CUST0277,Vienna,2024-02-16,2023-11-30,Pending,4718,App,Consultant_5,Spain,Tablet,12,2,0
+BKG00381,CUST0141,San Francisco,2024-05-05,2024-06-14,Confirmed,5865,Agent,Consultant_18,Germany,Desktop,18,1,0
+BKG00382,CUST0470,Rome,2023-02-18,2025-04-12,Confirmed,6353,Website,Consultant_18,Netherlands,Desktop,12,2,1
+BKG00383,CUST0275,Rio,2024-11-17,2024-09-19,Cancelled,3622,Agent,Consultant_14,Spain,Desktop,12,3,0
+BKG00384,CUST0290,Seoul,2024-07-17,2023-07-15,Pending,5690,App,Consultant_10,France,Tablet,12,4,1
+BKG00385,CUST0334,Barcelona,2023-04-12,2024-03-20,Confirmed,5075,App,Consultant_3,Germany,Tablet,8,4,2
+BKG00386,CUST0381,Vienna,2023-08-04,2024-05-06,Cancelled,7686,App,Consultant_9,USA,Mobile,19,2,2
+BKG00387,CUST0452,Dubai,2024-03-13,2023-05-24,Confirmed,2297,Website,Consultant_3,Netherlands,Desktop,7,3,1
+BKG00388,CUST0496,Paris,2024-11-30,2024-04-07,Confirmed,2631,Website,Consultant_11,Italy,Tablet,8,4,0
+BKG00389,CUST0373,New York,2024-07-22,2024-01-21,Confirmed,7822,App,Consultant_12,Germany,Mobile,17,3,0
+BKG00390,CUST0052,Athens,2024-07-12,2024-12-25,Confirmed,7208,Agent,Consultant_12,UK,Desktop,20,2,2
+BKG00391,CUST0494,Barcelona,2023-06-08,2023-08-25,Confirmed,7262,Agent,Consultant_3,Netherlands,Tablet,6,2,1
+BKG00392,CUST0027,Amsterdam,2024-05-03,2025-03-08,Confirmed,7000,Phone,Consultant_7,Italy,Tablet,10,1,2
+BKG00393,CUST0157,Prague,2024-11-16,2023-09-22,Confirmed,1315,App,Consultant_14,France,Mobile,18,4,2
+BKG00394,CUST0239,Athens,2023-08-30,2024-04-16,Confirmed,3194,Agent,Consultant_11,France,Desktop,5,4,0
+BKG00395,CUST0156,Copenhagen,2023-01-05,2024-01-20,Confirmed,942,App,Consultant_7,Netherlands,Desktop,12,1,1
+BKG00396,CUST0291,Rio,2024-08-18,2024-06-28,Confirmed,3640,Agent,Consultant_10,Netherlands,Tablet,4,2,2
+BKG00397,CUST0136,Madrid,2023-12-27,2023-08-26,Confirmed,7166,Phone,Consultant_11,UK,Desktop,6,2,0
+BKG00398,CUST0144,Bangkok,2024-04-03,2025-01-08,Cancelled,642,Phone,Consultant_15,USA,Mobile,8,2,2
+BKG00399,CUST0106,Milan,2023-09-05,2025-06-01,Cancelled,4787,App,Consultant_19,Spain,Tablet,13,2,2
+BKG00400,CUST0420,Lisbon,2024-07-19,2023-06-04,Cancelled,1910,Agent,Consultant_16,Germany,Tablet,16,3,0
+BKG00401,CUST0158,Milan,2024-11-03,2023-06-17,Confirmed,4973,Website,Consultant_20,Netherlands,Mobile,18,4,0
+BKG00402,CUST0146,Bangkok,2024-02-26,2024-01-04,Cancelled,7224,Phone,Consultant_12,UK,Tablet,4,4,1
+BKG00403,CUST0002,Seoul,2023-01-15,2024-07-20,Confirmed,1034,App,Consultant_18,Germany,Desktop,19,2,2
+BKG00404,CUST0433,Dubai,2024-07-26,2023-04-08,Confirmed,2216,App,Consultant_13,UK,Desktop,11,2,1
+BKG00405,CUST0077,New York,2023-05-02,2024-08-25,Confirmed,3864,Agent,Consultant_5,Netherlands,Tablet,19,2,0
+BKG00406,CUST0132,Vienna,2023-10-04,2024-07-24,Confirmed,1532,App,Consultant_4,Spain,Mobile,17,4,0
+BKG00407,CUST0090,Seoul,2024-07-11,2024-02-17,Confirmed,3842,Phone,Consultant_14,Spain,Mobile,9,4,2
+BKG00408,CUST0345,Tokyo,2024-03-28,2023-02-18,Confirmed,1910,App,Consultant_8,France,Desktop,5,2,1
+BKG00409,CUST0350,Berlin,2024-01-25,2024-12-13,Cancelled,6736,App,Consultant_9,Italy,Mobile,3,3,1
+BKG00410,CUST0459,Lisbon,2023-10-21,2024-04-24,Confirmed,6585,Website,Consultant_19,Netherlands,Tablet,6,1,2
+BKG00411,CUST0263,Helsinki,2024-07-27,2023-04-14,Confirmed,7172,Website,Consultant_3,Italy,Tablet,20,1,2
+BKG00412,CUST0351,Vienna,2024-08-20,2024-08-25,Pending,5773,Phone,Consultant_5,Netherlands,Desktop,10,1,1
+BKG00413,CUST0108,Copenhagen,2024-03-21,2024-11-25,Confirmed,5000,Agent,Consultant_18,Netherlands,Desktop,8,4,0
+BKG00414,CUST0074,Tokyo,2023-07-29,2023-11-02,Confirmed,7483,Website,Consultant_1,France,Desktop,3,4,0
+BKG00415,CUST0039,Sydney,2024-08-12,2023-03-19,Confirmed,1672,Agent,Consultant_8,Netherlands,Mobile,10,1,2
+BKG00416,CUST0397,Sydney,2023-10-29,2023-08-29,Confirmed,1388,Phone,Consultant_19,Spain,Tablet,3,1,1
+BKG00417,CUST0159,Toronto,2023-08-11,2025-06-03,Confirmed,3838,Website,Consultant_17,USA,Tablet,13,3,1
+BKG00418,CUST0071,Cape Town,2023-01-03,2024-11-11,Confirmed,5017,Agent,Consultant_17,Italy,Tablet,17,4,1
+BKG00419,CUST0447,Vienna,2024-06-01,2024-10-13,Confirmed,2141,Website,Consultant_11,Spain,Desktop,13,4,0
+BKG00420,CUST0312,Madrid,2023-04-03,2024-12-25,Confirmed,971,Phone,Consultant_2,Germany,Tablet,12,1,0
+BKG00421,CUST0241,New York,2024-06-03,2024-07-23,Confirmed,3440,Phone,Consultant_6,Netherlands,Mobile,14,3,1
+BKG00422,CUST0426,Athens,2024-03-03,2025-01-08,Confirmed,1046,Website,Consultant_14,Spain,Mobile,3,3,1
+BKG00423,CUST0445,Amsterdam,2024-05-07,2023-08-09,Confirmed,5226,Agent,Consultant_3,Netherlands,Tablet,9,1,2
+BKG00424,CUST0298,Dubai,2023-08-23,2023-12-11,Cancelled,4097,App,Consultant_12,Spain,Desktop,19,1,2
+BKG00425,CUST0440,Rome,2024-09-11,2024-08-15,Confirmed,5633,App,Consultant_4,France,Tablet,12,4,1
+BKG00426,CUST0036,Prague,2023-06-10,2024-11-21,Confirmed,3325,Website,Consultant_12,USA,Mobile,8,1,1
+BKG00427,CUST0084,Toronto,2023-11-27,2025-03-20,Confirmed,4223,Agent,Consultant_13,Spain,Mobile,19,2,0
+BKG00428,CUST0452,Barcelona,2023-11-29,2024-08-14,Confirmed,6425,App,Consultant_2,Spain,Mobile,20,3,1
+BKG00429,CUST0374,Istanbul,2023-02-19,2025-02-26,Confirmed,863,Phone,Consultant_2,Italy,Tablet,7,1,2
+BKG00430,CUST0263,Barcelona,2024-06-06,2023-05-23,Confirmed,2666,Agent,Consultant_15,Italy,Mobile,20,2,0
+BKG00431,CUST0310,Madrid,2024-10-29,2023-07-19,Cancelled,3809,App,Consultant_17,Germany,Desktop,19,3,2
+BKG00432,CUST0385,Bangkok,2024-05-06,2024-05-12,Cancelled,1045,Agent,Consultant_7,Germany,Tablet,18,2,2
+BKG00433,CUST0172,Vienna,2024-08-04,2024-12-08,Confirmed,3740,Website,Consultant_14,France,Tablet,10,2,0
+BKG00434,CUST0376,Amsterdam,2024-11-11,2023-02-13,Cancelled,7165,Agent,Consultant_12,France,Mobile,15,1,2
+BKG00435,CUST0173,Paris,2023-09-29,2025-01-14,Confirmed,5229,App,Consultant_17,UK,Mobile,18,3,1
+BKG00436,CUST0362,Paris,2024-08-02,2023-11-14,Confirmed,2436,Website,Consultant_14,Italy,Desktop,13,2,2
+BKG00437,CUST0047,Copenhagen,2023-09-09,2023-08-07,Confirmed,6276,Agent,Consultant_6,Netherlands,Tablet,8,4,0
+BKG00438,CUST0379,Vienna,2024-07-13,2023-07-04,Confirmed,1462,Phone,Consultant_19,USA,Mobile,5,3,0
+BKG00439,CUST0141,Lisbon,2024-11-26,2024-08-19,Cancelled,3505,App,Consultant_6,USA,Desktop,3,4,0
+BKG00440,CUST0375,Toronto,2024-11-29,2024-12-24,Confirmed,4306,Website,Consultant_18,UK,Mobile,20,1,2
+BKG00441,CUST0406,Bangkok,2023-03-31,2025-01-21,Confirmed,1382,Agent,Consultant_5,Italy,Tablet,7,4,1
+BKG00442,CUST0118,Lisbon,2024-03-21,2024-05-15,Pending,4340,Phone,Consultant_6,USA,Mobile,15,3,0
+BKG00443,CUST0277,Berlin,2023-11-28,2023-04-15,Confirmed,7423,App,Consultant_2,Spain,Tablet,12,2,1
+BKG00444,CUST0214,Amsterdam,2023-05-19,2023-11-03,Confirmed,1370,Phone,Consultant_8,France,Mobile,7,2,0
+BKG00445,CUST0220,Cape Town,2023-12-23,2024-11-05,Confirmed,5111,Agent,Consultant_15,Netherlands,Tablet,16,3,1
+BKG00446,CUST0393,Oslo,2024-08-23,2024-01-08,Cancelled,3485,Agent,Consultant_15,Germany,Desktop,19,2,1
+BKG00447,CUST0026,Milan,2023-10-01,2024-03-30,Cancelled,6016,Website,Consultant_11,Germany,Tablet,3,4,1
+BKG00448,CUST0009,Tokyo,2023-01-19,2024-08-23,Confirmed,1365,Phone,Consultant_1,USA,Desktop,4,2,0
+BKG00449,CUST0271,Dubai,2023-11-07,2024-06-24,Confirmed,6749,Website,Consultant_18,Netherlands,Tablet,9,2,2
+BKG00450,CUST0010,Bangkok,2023-06-03,2025-06-05,Confirmed,5704,App,Consultant_12,France,Desktop,12,4,2
+BKG00451,CUST0472,Cape Town,2024-01-25,2023-07-31,Cancelled,4809,Website,Consultant_12,USA,Mobile,9,4,2
+BKG00452,CUST0378,Copenhagen,2023-09-17,2024-05-02,Confirmed,7788,App,Consultant_11,UK,Tablet,18,4,1
+BKG00453,CUST0121,Toronto,2024-09-11,2025-05-30,Confirmed,3703,Agent,Consultant_8,USA,Mobile,7,1,0
+BKG00454,CUST0125,Paris,2024-07-24,2025-05-12,Pending,3397,Agent,Consultant_7,UK,Desktop,14,4,1
+BKG00455,CUST0170,Istanbul,2023-05-05,2023-04-04,Confirmed,2744,Phone,Consultant_2,Spain,Tablet,19,4,0
+BKG00456,CUST0072,Copenhagen,2023-12-20,2025-05-18,Confirmed,518,App,Consultant_11,Italy,Tablet,18,1,1
+BKG00457,CUST0152,Helsinki,2023-09-30,2023-10-17,Confirmed,1141,Agent,Consultant_10,Spain,Mobile,18,2,0
+BKG00458,CUST0208,Helsinki,2024-09-10,2023-08-11,Pending,3583,Phone,Consultant_3,Germany,Tablet,17,4,0
+BKG00459,CUST0049,Istanbul,2023-09-02,2024-11-15,Confirmed,5700,Phone,Consultant_20,France,Tablet,14,3,0
+BKG00460,CUST0154,Rome,2024-03-25,2024-10-07,Confirmed,829,Website,Consultant_10,Spain,Mobile,12,4,1
+BKG00461,CUST0347,Berlin,2023-09-04,2024-03-11,Confirmed,1365,Phone,Consultant_18,Netherlands,Tablet,4,4,2
+BKG00462,CUST0293,Amsterdam,2024-06-03,2025-01-25,Confirmed,1273,Agent,Consultant_14,Netherlands,Mobile,9,1,1
+BKG00463,CUST0068,Copenhagen,2023-05-21,2025-02-22,Confirmed,4987,Website,Consultant_18,Italy,Mobile,15,3,1
+BKG00464,CUST0050,Lisbon,2023-12-28,2025-01-20,Confirmed,5232,App,Consultant_8,Italy,Mobile,5,2,0
+BKG00465,CUST0152,Rio,2023-01-08,2023-05-03,Pending,2854,App,Consultant_10,Netherlands,Mobile,17,2,0
+BKG00466,CUST0019,Barcelona,2024-04-22,2024-04-04,Confirmed,3838,Agent,Consultant_13,Spain,Mobile,3,3,2
+BKG00467,CUST0100,Paris,2023-12-18,2024-11-14,Confirmed,4018,Agent,Consultant_8,UK,Desktop,5,4,2
+BKG00468,CUST0060,Berlin,2024-05-09,2024-04-08,Confirmed,3442,Website,Consultant_4,Italy,Desktop,12,1,0
+BKG00469,CUST0167,Rio,2024-08-28,2024-03-09,Confirmed,7295,Website,Consultant_4,Germany,Mobile,17,3,2
+BKG00470,CUST0202,Athens,2024-03-02,2024-04-08,Cancelled,7484,Agent,Consultant_5,Italy,Desktop,8,3,2
+BKG00471,CUST0345,Rome,2023-02-08,2023-05-22,Confirmed,5621,Agent,Consultant_1,France,Desktop,17,2,0
+BKG00472,CUST0146,Lisbon,2024-08-15,2024-02-09,Confirmed,3067,App,Consultant_17,Spain,Tablet,9,1,1
+BKG00473,CUST0403,Barcelona,2023-07-06,2023-03-30,Confirmed,2174,App,Consultant_2,Spain,Mobile,7,3,2
+BKG00474,CUST0164,Tokyo,2024-08-18,2023-03-14,Confirmed,3183,App,Consultant_8,Germany,Desktop,6,1,0
+BKG00475,CUST0458,Athens,2024-08-22,2023-08-25,Confirmed,3880,Agent,Consultant_7,UK,Tablet,20,4,2
+BKG00476,CUST0481,Amsterdam,2023-04-03,2025-03-20,Confirmed,1239,Phone,Consultant_15,Italy,Tablet,5,2,2
+BKG00477,CUST0439,Madrid,2023-03-27,2023-11-22,Cancelled,2045,Agent,Consultant_5,Italy,Mobile,19,4,0
+BKG00478,CUST0242,Amsterdam,2023-02-13,2023-05-28,Pending,5064,Agent,Consultant_2,Spain,Mobile,20,1,2
+BKG00479,CUST0069,Milan,2023-05-17,2024-07-15,Confirmed,2759,App,Consultant_7,Italy,Tablet,20,4,2
+BKG00480,CUST0175,Dubai,2024-02-25,2023-09-09,Pending,1635,Agent,Consultant_8,Italy,Mobile,4,2,2
+BKG00481,CUST0049,Rio,2023-03-15,2023-07-15,Confirmed,5627,Website,Consultant_7,UK,Mobile,15,1,1
+BKG00482,CUST0483,Bangkok,2024-07-01,2024-11-03,Confirmed,7447,Agent,Consultant_7,Germany,Tablet,17,3,1
+BKG00483,CUST0108,Rome,2024-09-04,2023-07-05,Confirmed,7120,Agent,Consultant_14,France,Tablet,7,4,2
+BKG00484,CUST0226,Sydney,2024-05-26,2023-08-02,Confirmed,1373,Agent,Consultant_18,Netherlands,Mobile,5,2,0
+BKG00485,CUST0161,Dubai,2023-06-05,2023-04-30,Confirmed,5055,Agent,Consultant_6,Netherlands,Desktop,7,3,2
+BKG00486,CUST0119,Dubai,2023-09-12,2023-05-04,Confirmed,2800,Phone,Consultant_4,Germany,Mobile,7,2,2
+BKG00487,CUST0149,Tokyo,2023-06-20,2023-02-12,Confirmed,6145,Agent,Consultant_10,Netherlands,Desktop,7,1,1
+BKG00488,CUST0465,Helsinki,2023-06-19,2025-05-13,Confirmed,1251,Website,Consultant_18,UK,Tablet,5,1,1
+BKG00489,CUST0150,Seoul,2023-11-18,2025-04-14,Confirmed,6057,Website,Consultant_12,France,Desktop,5,4,1
+BKG00490,CUST0432,Rome,2024-07-20,2025-02-10,Cancelled,6373,Agent,Consultant_16,Germany,Tablet,20,2,2
+BKG00491,CUST0293,Oslo,2024-03-31,2025-05-13,Confirmed,7624,App,Consultant_7,Italy,Mobile,6,2,2
+BKG00492,CUST0143,Barcelona,2024-08-25,2025-04-13,Confirmed,1353,Phone,Consultant_6,Italy,Mobile,3,2,0
+BKG00493,CUST0419,Dubai,2024-09-04,2024-04-12,Confirmed,4232,Agent,Consultant_5,Spain,Tablet,18,1,2
+BKG00494,CUST0476,Toronto,2023-06-04,2024-07-21,Confirmed,2783,Agent,Consultant_3,USA,Tablet,10,4,2
+BKG00495,CUST0455,Helsinki,2023-12-15,2024-09-08,Cancelled,1829,Agent,Consultant_12,Spain,Tablet,19,2,1
+BKG00496,CUST0160,Seoul,2024-03-26,2025-04-20,Confirmed,977,App,Consultant_15,France,Mobile,10,2,1
+BKG00497,CUST0011,Paris,2024-10-14,2023-06-29,Confirmed,3226,App,Consultant_10,Germany,Mobile,9,3,1
+BKG00498,CUST0138,Helsinki,2023-06-22,2024-11-20,Cancelled,3591,App,Consultant_20,Germany,Desktop,10,2,1
+BKG00499,CUST0457,Barcelona,2023-01-10,2023-02-07,Confirmed,6859,Phone,Consultant_19,Spain,Tablet,14,4,1
+BKG00500,CUST0078,Athens,2023-09-22,2023-02-28,Confirmed,7498,Website,Consultant_16,France,Desktop,18,3,0
+BKG00501,CUST0077,Rome,2024-03-13,2023-11-22,Confirmed,4730,Phone,Consultant_11,Spain,Mobile,14,3,0
+BKG00502,CUST0441,Tokyo,2023-09-04,2025-01-20,Pending,7548,App,Consultant_8,Italy,Desktop,12,3,0
+BKG00503,CUST0254,Milan,2024-10-28,2024-10-31,Confirmed,5748,Website,Consultant_3,Netherlands,Desktop,9,1,1
+BKG00504,CUST0409,Sydney,2024-06-29,2024-01-05,Confirmed,5005,Website,Consultant_7,Spain,Mobile,14,3,1
+BKG00505,CUST0258,Madrid,2024-05-13,2024-10-19,Confirmed,6041,App,Consultant_7,Germany,Mobile,7,2,1
+BKG00506,CUST0320,Bangkok,2023-05-09,2024-04-13,Confirmed,5913,App,Consultant_14,France,Tablet,18,1,0
+BKG00507,CUST0291,Rio,2024-11-02,2023-06-23,Confirmed,1769,Phone,Consultant_2,Spain,Desktop,11,1,1
+BKG00508,CUST0263,Copenhagen,2024-08-23,2025-05-09,Confirmed,6175,App,Consultant_10,USA,Mobile,9,1,0
+BKG00509,CUST0085,Toronto,2024-08-27,2025-02-15,Confirmed,4681,Website,Consultant_19,USA,Mobile,16,1,1
+BKG00510,CUST0146,Oslo,2023-11-23,2024-07-02,Pending,3103,Agent,Consultant_9,UK,Desktop,13,1,2
+BKG00511,CUST0323,San Francisco,2024-02-08,2023-03-16,Cancelled,6461,App,Consultant_16,USA,Mobile,9,1,0
+BKG00512,CUST0042,Lisbon,2024-09-20,2023-09-26,Confirmed,1969,App,Consultant_19,Italy,Tablet,12,1,2
+BKG00513,CUST0374,Dubai,2024-08-28,2023-07-04,Cancelled,877,Phone,Consultant_18,Netherlands,Tablet,11,3,0
+BKG00514,CUST0125,Bangkok,2024-11-05,2023-07-30,Confirmed,2180,Phone,Consultant_9,Germany,Desktop,6,4,1
+BKG00515,CUST0167,Sydney,2024-09-02,2023-09-02,Confirmed,5670,App,Consultant_16,Spain,Tablet,18,2,1
+BKG00516,CUST0425,Barcelona,2024-09-16,2023-04-28,Confirmed,741,Website,Consultant_13,Italy,Mobile,12,2,2
+BKG00517,CUST0241,Paris,2023-12-25,2023-10-13,Cancelled,7961,Website,Consultant_10,UK,Mobile,19,3,1
+BKG00518,CUST0459,Athens,2024-08-25,2024-06-24,Cancelled,1419,Agent,Consultant_20,USA,Mobile,11,3,0
+BKG00519,CUST0487,Toronto,2023-01-17,2023-04-13,Confirmed,6182,App,Consultant_14,USA,Mobile,15,1,1
+BKG00520,CUST0280,Rome,2023-10-01,2023-07-28,Pending,6909,Phone,Consultant_12,France,Desktop,3,4,1
+BKG00521,CUST0188,Rome,2024-11-15,2023-08-30,Confirmed,7787,Website,Consultant_19,Germany,Tablet,4,1,0
+BKG00522,CUST0302,Barcelona,2023-04-26,2025-04-14,Cancelled,7355,Agent,Consultant_7,France,Tablet,15,3,2
+BKG00523,CUST0019,Vienna,2024-11-23,2023-09-21,Pending,5867,App,Consultant_15,Spain,Mobile,11,1,2
+BKG00524,CUST0068,Seoul,2023-04-01,2024-05-09,Confirmed,569,Website,Consultant_16,Germany,Desktop,9,2,1
+BKG00525,CUST0218,Sydney,2023-03-23,2025-02-19,Cancelled,4424,App,Consultant_8,Netherlands,Mobile,18,2,0
+BKG00526,CUST0102,Prague,2023-11-20,2023-09-10,Confirmed,6700,App,Consultant_10,USA,Mobile,9,1,2
+BKG00527,CUST0042,Amsterdam,2023-04-24,2024-10-22,Confirmed,6001,Website,Consultant_4,France,Desktop,8,4,2
+BKG00528,CUST0288,Tokyo,2023-02-27,2025-05-04,Confirmed,2586,Website,Consultant_19,USA,Desktop,20,1,1
+BKG00529,CUST0167,Athens,2023-06-03,2023-10-21,Confirmed,2507,Website,Consultant_19,Italy,Mobile,13,1,0
+BKG00530,CUST0109,Paris,2024-02-08,2023-08-25,Pending,1300,App,Consultant_15,USA,Tablet,14,4,2
+BKG00531,CUST0494,Vienna,2024-09-19,2024-09-28,Confirmed,5637,App,Consultant_14,USA,Mobile,12,4,1
+BKG00532,CUST0036,Copenhagen,2023-09-23,2025-02-02,Confirmed,3279,Agent,Consultant_1,Germany,Tablet,15,4,1
+BKG00533,CUST0232,Copenhagen,2023-11-11,2024-01-31,Cancelled,5420,Phone,Consultant_16,Netherlands,Tablet,14,2,1
+BKG00534,CUST0229,Barcelona,2023-02-10,2023-11-02,Pending,1255,App,Consultant_10,France,Desktop,12,1,1
+BKG00535,CUST0353,Berlin,2023-04-15,2024-02-14,Confirmed,6995,Phone,Consultant_19,France,Desktop,20,3,2
+BKG00536,CUST0164,Rio,2023-07-12,2025-02-11,Pending,2495,Website,Consultant_3,Spain,Mobile,6,4,0
+BKG00537,CUST0387,Sydney,2024-02-05,2023-12-05,Confirmed,6435,App,Consultant_5,France,Tablet,7,4,1
+BKG00538,CUST0073,Amsterdam,2023-10-05,2024-10-22,Cancelled,1821,Agent,Consultant_9,France,Tablet,7,1,1
+BKG00539,CUST0136,Sydney,2023-12-20,2023-10-25,Confirmed,2830,Agent,Consultant_18,Italy,Mobile,14,3,2
+BKG00540,CUST0353,Helsinki,2024-08-02,2025-03-25,Confirmed,6205,Phone,Consultant_11,Netherlands,Mobile,5,1,1
+BKG00541,CUST0379,Barcelona,2023-09-13,2023-04-04,Confirmed,609,Website,Consultant_16,USA,Mobile,10,1,1
+BKG00542,CUST0070,Rio,2024-10-12,2025-04-19,Confirmed,1516,Phone,Consultant_2,Spain,Desktop,4,4,0
+BKG00543,CUST0425,Helsinki,2024-10-22,2024-01-15,Confirmed,7847,Website,Consultant_12,UK,Mobile,20,4,1
+BKG00544,CUST0487,Helsinki,2023-04-09,2024-06-07,Confirmed,6557,Agent,Consultant_6,Spain,Mobile,11,2,2
+BKG00545,CUST0196,Cape Town,2024-08-10,2024-07-06,Confirmed,7187,Phone,Consultant_11,Spain,Tablet,15,3,0
+BKG00546,CUST0269,Athens,2023-10-09,2023-05-08,Pending,6365,Agent,Consultant_8,Italy,Mobile,9,3,2
+BKG00547,CUST0049,Cape Town,2024-02-07,2023-04-11,Confirmed,4365,Agent,Consultant_12,Italy,Tablet,12,4,0
+BKG00548,CUST0316,Berlin,2023-04-19,2024-01-29,Confirmed,524,Website,Consultant_2,UK,Tablet,11,4,0
+BKG00549,CUST0130,Dubai,2024-11-30,2024-08-22,Confirmed,5438,Phone,Consultant_9,Germany,Desktop,17,4,1
+BKG00550,CUST0444,San Francisco,2023-07-18,2025-04-11,Confirmed,3338,Phone,Consultant_15,Italy,Mobile,7,3,1
+BKG00551,CUST0005,Prague,2023-10-30,2025-03-03,Cancelled,1237,Agent,Consultant_2,Germany,Mobile,14,2,1
+BKG00552,CUST0428,Tokyo,2023-11-23,2023-11-02,Cancelled,6700,Agent,Consultant_1,Germany,Tablet,3,3,2
+BKG00553,CUST0027,Barcelona,2023-06-03,2023-03-21,Confirmed,679,Website,Consultant_10,Netherlands,Desktop,14,4,1
+BKG00554,CUST0160,Istanbul,2024-07-05,2024-01-23,Confirmed,731,App,Consultant_2,UK,Desktop,8,4,1
+BKG00555,CUST0149,Sydney,2024-10-06,2025-01-27,Cancelled,2417,App,Consultant_12,France,Mobile,18,2,0
+BKG00556,CUST0264,Madrid,2024-02-09,2024-08-16,Confirmed,842,Agent,Consultant_8,USA,Tablet,5,1,1
+BKG00557,CUST0230,Milan,2024-04-06,2025-03-23,Cancelled,5072,App,Consultant_5,USA,Mobile,12,1,1
+BKG00558,CUST0200,Paris,2023-05-12,2024-05-29,Confirmed,6418,App,Consultant_1,Italy,Mobile,20,3,1
+BKG00559,CUST0050,Amsterdam,2023-03-25,2023-04-24,Cancelled,3123,App,Consultant_15,France,Mobile,15,1,1
+BKG00560,CUST0067,Copenhagen,2024-02-03,2025-04-14,Confirmed,954,App,Consultant_6,Netherlands,Mobile,20,1,0
+BKG00561,CUST0300,Rome,2024-09-19,2024-10-29,Confirmed,5851,Agent,Consultant_12,Germany,Tablet,5,3,1
+BKG00562,CUST0381,Seoul,2023-04-19,2025-04-17,Pending,4884,App,Consultant_8,France,Desktop,5,4,0
+BKG00563,CUST0058,Cape Town,2023-08-09,2024-09-05,Confirmed,5832,App,Consultant_13,France,Mobile,14,1,2
+BKG00564,CUST0259,Amsterdam,2024-07-06,2023-11-22,Confirmed,6901,Website,Consultant_19,Spain,Mobile,9,4,1
+BKG00565,CUST0342,Cape Town,2024-01-03,2023-09-23,Confirmed,5125,Agent,Consultant_1,UK,Mobile,10,3,1
+BKG00566,CUST0326,Berlin,2023-05-27,2023-03-27,Confirmed,7330,Phone,Consultant_11,Netherlands,Mobile,11,4,1
+BKG00567,CUST0130,Helsinki,2023-04-22,2024-01-25,Confirmed,7572,Phone,Consultant_20,Spain,Desktop,16,4,0
+BKG00568,CUST0215,Vienna,2024-09-06,2023-05-20,Confirmed,2776,Website,Consultant_1,Italy,Desktop,7,3,1
+BKG00569,CUST0172,Barcelona,2024-07-11,2023-08-10,Confirmed,7893,Website,Consultant_8,Netherlands,Desktop,18,4,1
+BKG00570,CUST0258,Milan,2024-05-08,2023-05-03,Confirmed,1095,Agent,Consultant_5,Germany,Desktop,14,1,2
+BKG00571,CUST0102,Cape Town,2024-05-19,2025-06-10,Cancelled,4374,Phone,Consultant_17,Netherlands,Mobile,6,1,0
+BKG00572,CUST0209,Athens,2024-04-19,2024-08-20,Confirmed,5030,App,Consultant_8,Spain,Tablet,10,1,0
+BKG00573,CUST0291,San Francisco,2023-09-28,2023-03-31,Confirmed,5477,Website,Consultant_10,Italy,Desktop,9,1,2
+BKG00574,CUST0354,Rio,2024-02-25,2024-11-10,Confirmed,7664,Phone,Consultant_2,Netherlands,Desktop,17,4,0
+BKG00575,CUST0471,Vienna,2024-01-02,2023-03-10,Confirmed,6377,Agent,Consultant_9,Italy,Mobile,8,1,1
+BKG00576,CUST0286,Seoul,2023-10-07,2024-07-23,Confirmed,4997,App,Consultant_3,Netherlands,Mobile,7,4,1
+BKG00577,CUST0116,Cape Town,2023-10-10,2023-03-20,Confirmed,3169,Agent,Consultant_18,Italy,Mobile,16,2,2
+BKG00578,CUST0264,Amsterdam,2023-02-09,2024-03-25,Confirmed,2635,Website,Consultant_7,USA,Mobile,15,4,0
+BKG00579,CUST0150,Copenhagen,2023-07-08,2024-10-28,Confirmed,7227,Phone,Consultant_15,UK,Tablet,12,1,0
+BKG00580,CUST0300,Oslo,2023-06-13,2023-02-12,Confirmed,4464,Phone,Consultant_20,UK,Tablet,20,2,0
+BKG00581,CUST0442,Toronto,2024-06-19,2023-03-07,Confirmed,2065,Phone,Consultant_18,Italy,Desktop,6,3,2
+BKG00582,CUST0036,Rio,2024-06-19,2023-05-11,Confirmed,808,Phone,Consultant_3,Italy,Tablet,10,4,1
+BKG00583,CUST0453,Milan,2023-01-04,2025-04-03,Confirmed,7549,App,Consultant_14,UK,Desktop,13,1,2
+BKG00584,CUST0333,Cape Town,2023-10-17,2023-04-26,Confirmed,842,App,Consultant_2,UK,Desktop,19,1,1
+BKG00585,CUST0477,Milan,2024-03-08,2024-06-29,Confirmed,935,Agent,Consultant_14,Spain,Tablet,20,1,2
+BKG00586,CUST0287,Barcelona,2024-04-15,2023-09-10,Cancelled,676,App,Consultant_11,Spain,Desktop,13,3,1
+BKG00587,CUST0303,New York,2023-06-30,2024-01-03,Confirmed,638,Website,Consultant_16,USA,Mobile,18,2,0
+BKG00588,CUST0311,Milan,2023-09-05,2023-07-15,Confirmed,693,Website,Consultant_8,Italy,Desktop,14,2,0
+BKG00589,CUST0208,Tokyo,2024-09-19,2024-02-17,Confirmed,3757,Phone,Consultant_7,Germany,Mobile,15,1,0
+BKG00590,CUST0106,Athens,2023-10-06,2025-06-04,Confirmed,7885,Website,Consultant_11,Netherlands,Tablet,18,4,2
+BKG00591,CUST0446,Istanbul,2024-08-03,2024-02-10,Confirmed,3735,Agent,Consultant_3,USA,Tablet,3,1,2
+BKG00592,CUST0158,Prague,2023-09-11,2024-05-15,Confirmed,5780,App,Consultant_17,Italy,Desktop,18,1,2
+BKG00593,CUST0121,Cape Town,2023-06-30,2025-03-30,Cancelled,1442,App,Consultant_14,France,Mobile,17,4,0
+BKG00594,CUST0055,Tokyo,2024-11-11,2024-11-02,Confirmed,5120,App,Consultant_6,UK,Desktop,8,1,1
+BKG00595,CUST0400,Copenhagen,2024-05-23,2023-03-02,Pending,4379,Website,Consultant_8,Spain,Tablet,14,3,0
+BKG00596,CUST0012,Rio,2024-11-30,2024-02-09,Confirmed,6220,App,Consultant_5,UK,Desktop,10,1,0
+BKG00597,CUST0145,Milan,2024-07-19,2023-02-10,Confirmed,3613,Phone,Consultant_8,Spain,Desktop,9,3,1
+BKG00598,CUST0400,Sydney,2023-11-22,2023-11-28,Confirmed,3462,Phone,Consultant_2,France,Mobile,4,1,1
+BKG00599,CUST0396,Athens,2023-12-23,2023-05-06,Confirmed,6853,Phone,Consultant_15,Italy,Tablet,14,2,1
+BKG00600,CUST0136,Cape Town,2024-10-11,2023-08-08,Confirmed,5336,Website,Consultant_12,USA,Desktop,16,4,1
+BKG00601,CUST0468,Seoul,2024-11-10,2024-04-27,Confirmed,5457,App,Consultant_17,USA,Mobile,18,2,0
+BKG00602,CUST0003,Amsterdam,2024-01-26,2023-08-10,Confirmed,7942,Website,Consultant_1,UK,Desktop,13,1,2
+BKG00603,CUST0144,Helsinki,2024-09-06,2024-05-30,Pending,1453,App,Consultant_15,Germany,Mobile,11,1,0
+BKG00604,CUST0030,Berlin,2023-03-26,2023-10-23,Cancelled,1802,Agent,Consultant_14,Germany,Mobile,12,3,1
+BKG00605,CUST0237,Vienna,2023-11-13,2024-03-29,Confirmed,5870,Agent,Consultant_20,France,Desktop,19,1,2
+BKG00606,CUST0279,San Francisco,2023-07-31,2023-06-07,Confirmed,3881,Website,Consultant_16,France,Tablet,14,1,2
+BKG00607,CUST0348,Tokyo,2024-05-29,2023-09-25,Confirmed,6339,Phone,Consultant_9,France,Tablet,8,1,0
+BKG00608,CUST0115,Paris,2024-01-19,2024-01-20,Confirmed,3380,Website,Consultant_1,Netherlands,Mobile,13,2,0
+BKG00609,CUST0104,Seoul,2024-11-21,2023-05-22,Confirmed,2687,Phone,Consultant_17,Germany,Tablet,11,3,0
+BKG00610,CUST0118,Athens,2023-12-08,2025-05-07,Confirmed,5387,App,Consultant_13,Italy,Mobile,8,2,2
+BKG00611,CUST0005,Rio,2023-02-07,2024-04-20,Confirmed,1045,Phone,Consultant_5,Netherlands,Tablet,18,3,2
+BKG00612,CUST0468,Cape Town,2024-05-25,2024-01-08,Confirmed,6440,Phone,Consultant_10,UK,Desktop,18,2,2
+BKG00613,CUST0360,Bangkok,2024-02-24,2023-06-24,Pending,5612,App,Consultant_6,Germany,Tablet,8,1,1
+BKG00614,CUST0248,Helsinki,2023-06-18,2023-04-05,Confirmed,2427,Agent,Consultant_19,Spain,Mobile,7,2,1
+BKG00615,CUST0364,Barcelona,2023-12-09,2023-10-04,Pending,6149,App,Consultant_13,France,Mobile,6,2,0
+BKG00616,CUST0321,Tokyo,2023-11-02,2025-02-03,Confirmed,4652,Website,Consultant_1,Germany,Tablet,4,3,2
+BKG00617,CUST0121,Cape Town,2024-06-25,2024-06-03,Confirmed,6755,Website,Consultant_20,UK,Desktop,8,3,0
+BKG00618,CUST0286,Tokyo,2024-06-20,2025-05-04,Confirmed,504,Website,Consultant_15,USA,Mobile,11,2,2
+BKG00619,CUST0149,Berlin,2023-04-22,2024-04-13,Confirmed,3981,Website,Consultant_14,Netherlands,Mobile,19,3,0
+BKG00620,CUST0084,Berlin,2024-02-15,2023-05-16,Confirmed,6033,Website,Consultant_8,USA,Mobile,16,3,1
+BKG00621,CUST0454,Vienna,2023-07-25,2023-07-30,Confirmed,3753,Agent,Consultant_10,Spain,Mobile,9,3,2
+BKG00622,CUST0406,Rome,2023-07-04,2023-08-02,Confirmed,7680,Agent,Consultant_9,France,Mobile,3,4,1
+BKG00623,CUST0466,Tokyo,2024-01-17,2023-09-13,Confirmed,1862,Phone,Consultant_17,UK,Desktop,17,3,2
+BKG00624,CUST0456,Cape Town,2024-05-10,2025-03-17,Confirmed,2320,Website,Consultant_9,France,Tablet,20,4,0
+BKG00625,CUST0231,Oslo,2024-01-14,2025-03-30,Confirmed,5878,App,Consultant_3,Germany,Desktop,5,4,2
+BKG00626,CUST0288,Tokyo,2023-02-16,2023-04-29,Confirmed,6733,Website,Consultant_11,UK,Desktop,20,3,1
+BKG00627,CUST0161,Seoul,2024-07-04,2024-12-18,Confirmed,3163,Agent,Consultant_12,Netherlands,Mobile,4,2,2
+BKG00628,CUST0272,Copenhagen,2024-06-11,2024-07-13,Confirmed,3438,Website,Consultant_10,UK,Desktop,12,3,0
+BKG00629,CUST0460,Toronto,2024-05-18,2024-02-05,Confirmed,7341,Agent,Consultant_17,Netherlands,Mobile,13,1,2
+BKG00630,CUST0038,San Francisco,2023-01-22,2024-03-04,Pending,1773,Phone,Consultant_17,Germany,Desktop,5,2,1
+BKG00631,CUST0500,Toronto,2023-08-01,2023-05-16,Confirmed,3826,Phone,Consultant_11,Germany,Mobile,9,4,0
+BKG00632,CUST0226,Dubai,2023-11-06,2023-10-28,Cancelled,4159,Phone,Consultant_4,France,Mobile,10,4,1
+BKG00633,CUST0142,Barcelona,2024-10-22,2025-05-10,Confirmed,3445,Agent,Consultant_7,Netherlands,Desktop,20,2,2
+BKG00634,CUST0292,Bangkok,2023-09-29,2024-06-16,Confirmed,3518,Website,Consultant_14,USA,Desktop,15,2,1
+BKG00635,CUST0481,Cape Town,2024-07-24,2024-12-09,Confirmed,1631,Website,Consultant_7,Spain,Tablet,15,3,2
+BKG00636,CUST0151,Madrid,2023-07-21,2024-07-08,Confirmed,5263,App,Consultant_8,Spain,Tablet,14,4,0
+BKG00637,CUST0114,Helsinki,2023-02-01,2025-05-28,Confirmed,7237,Agent,Consultant_1,France,Tablet,19,1,1
+BKG00638,CUST0237,Helsinki,2024-03-18,2023-03-03,Cancelled,3136,App,Consultant_4,Germany,Desktop,14,3,1
+BKG00639,CUST0066,Lisbon,2023-06-11,2024-02-27,Confirmed,7128,Phone,Consultant_12,Spain,Desktop,15,2,2
+BKG00640,CUST0361,Toronto,2023-09-11,2023-03-11,Confirmed,3529,Website,Consultant_3,Germany,Mobile,14,4,1
+BKG00641,CUST0341,Athens,2024-06-04,2024-11-20,Confirmed,3519,Agent,Consultant_13,USA,Tablet,16,2,1
+BKG00642,CUST0258,Lisbon,2024-10-12,2023-09-05,Pending,5877,App,Consultant_20,Netherlands,Mobile,9,2,0
+BKG00643,CUST0475,Barcelona,2024-04-24,2025-01-30,Confirmed,7282,App,Consultant_6,UK,Mobile,15,2,2
+BKG00644,CUST0249,Dubai,2023-01-10,2023-04-22,Confirmed,5592,App,Consultant_11,France,Mobile,8,3,2
+BKG00645,CUST0457,Paris,2024-05-19,2025-05-24,Confirmed,6522,Website,Consultant_4,USA,Mobile,6,1,0
+BKG00646,CUST0449,Helsinki,2024-07-13,2025-01-19,Cancelled,4877,Website,Consultant_20,Italy,Tablet,11,1,0
+BKG00647,CUST0331,Tokyo,2024-03-11,2023-08-19,Pending,7629,Website,Consultant_16,Netherlands,Mobile,18,4,2
+BKG00648,CUST0323,Tokyo,2023-04-21,2024-04-21,Confirmed,3659,Agent,Consultant_7,Germany,Desktop,6,2,0
+BKG00649,CUST0180,Berlin,2023-06-02,2025-05-23,Cancelled,5823,Website,Consultant_11,UK,Desktop,8,1,0
+BKG00650,CUST0190,Barcelona,2024-09-26,2024-04-02,Cancelled,6659,Agent,Consultant_1,Germany,Desktop,10,2,0
+BKG00651,CUST0407,San Francisco,2023-04-12,2023-03-09,Confirmed,7818,App,Consultant_7,Spain,Tablet,18,4,2
+BKG00652,CUST0154,Rome,2023-07-10,2023-08-29,Confirmed,5531,App,Consultant_12,Italy,Mobile,7,2,0
+BKG00653,CUST0196,Seoul,2024-07-16,2024-04-18,Confirmed,753,Phone,Consultant_7,Netherlands,Tablet,12,1,1
+BKG00654,CUST0466,Paris,2023-03-22,2023-12-23,Pending,5807,Website,Consultant_7,Germany,Mobile,15,2,1
+BKG00655,CUST0311,Vienna,2024-05-03,2025-03-01,Confirmed,828,App,Consultant_10,Germany,Tablet,16,1,2
+BKG00656,CUST0262,Istanbul,2023-03-29,2023-09-14,Cancelled,3091,Website,Consultant_16,Netherlands,Tablet,9,4,0
+BKG00657,CUST0419,Copenhagen,2023-07-13,2023-03-19,Confirmed,3330,Agent,Consultant_8,Spain,Mobile,8,2,1
+BKG00658,CUST0406,Sydney,2023-04-14,2023-02-17,Cancelled,3544,App,Consultant_9,Spain,Tablet,9,1,2
+BKG00659,CUST0427,Vienna,2023-04-06,2024-04-13,Confirmed,1920,Website,Consultant_9,USA,Mobile,7,4,1
+BKG00660,CUST0143,Dubai,2024-02-27,2025-04-16,Confirmed,6136,App,Consultant_2,USA,Desktop,20,2,0
+BKG00661,CUST0342,Oslo,2023-07-17,2025-01-07,Cancelled,3901,App,Consultant_13,Spain,Desktop,14,4,2
+BKG00662,CUST0316,Dubai,2023-01-01,2023-08-05,Cancelled,3392,Website,Consultant_13,Spain,Desktop,8,1,1
+BKG00663,CUST0101,Cape Town,2024-02-11,2024-01-10,Cancelled,5788,App,Consultant_4,Italy,Tablet,3,2,2
+BKG00664,CUST0244,Sydney,2024-01-13,2023-09-11,Confirmed,6312,App,Consultant_12,Italy,Desktop,6,2,1
+BKG00665,CUST0490,Sydney,2023-06-16,2025-05-09,Confirmed,7009,App,Consultant_17,France,Mobile,14,2,1
+BKG00666,CUST0012,Tokyo,2024-05-23,2024-06-01,Confirmed,5797,App,Consultant_2,Germany,Desktop,17,4,0
+BKG00667,CUST0239,Milan,2024-09-29,2025-05-28,Confirmed,1154,Agent,Consultant_13,USA,Desktop,5,4,0
+BKG00668,CUST0049,Athens,2023-11-09,2023-09-16,Confirmed,5981,App,Consultant_18,Netherlands,Tablet,10,1,1
+BKG00669,CUST0042,Oslo,2024-08-15,2024-02-24,Confirmed,1259,Phone,Consultant_15,UK,Mobile,13,3,2
+BKG00670,CUST0166,Vienna,2024-02-22,2024-09-10,Confirmed,7282,App,Consultant_8,Germany,Tablet,18,2,2
+BKG00671,CUST0082,Helsinki,2024-11-11,2023-08-06,Pending,2298,Website,Consultant_15,Spain,Tablet,11,2,0
+BKG00672,CUST0429,Milan,2024-04-21,2025-06-06,Confirmed,5659,Phone,Consultant_1,USA,Mobile,5,1,1
+BKG00673,CUST0291,Amsterdam,2023-03-14,2023-10-27,Confirmed,3471,Agent,Consultant_20,UK,Tablet,7,2,0
+BKG00674,CUST0158,Athens,2023-05-21,2024-09-28,Confirmed,5011,Phone,Consultant_10,UK,Mobile,16,4,1
+BKG00675,CUST0216,Rio,2024-08-04,2023-12-06,Confirmed,3926,Phone,Consultant_12,UK,Desktop,17,4,1
+BKG00676,CUST0490,Milan,2023-09-19,2023-06-11,Confirmed,754,Phone,Consultant_5,Netherlands,Mobile,8,2,0
+BKG00677,CUST0158,Berlin,2023-12-06,2024-08-03,Pending,5762,Website,Consultant_9,UK,Mobile,6,2,2
+BKG00678,CUST0462,Copenhagen,2023-11-04,2023-04-12,Cancelled,4323,Website,Consultant_8,France,Mobile,10,4,0
+BKG00679,CUST0134,Prague,2023-09-02,2025-04-02,Pending,2376,Website,Consultant_16,Netherlands,Tablet,7,2,1
+BKG00680,CUST0067,Berlin,2024-05-29,2025-05-24,Pending,3257,Agent,Consultant_14,Netherlands,Mobile,15,4,0
+BKG00681,CUST0336,Oslo,2023-12-03,2024-12-02,Confirmed,3124,Website,Consultant_13,UK,Mobile,18,3,2
+BKG00682,CUST0007,Dubai,2024-07-28,2023-08-05,Confirmed,5495,Website,Consultant_13,Germany,Mobile,3,3,2
+BKG00683,CUST0436,Istanbul,2024-07-14,2024-05-30,Confirmed,6654,Phone,Consultant_5,USA,Desktop,15,2,1
+BKG00684,CUST0014,Barcelona,2023-03-17,2023-08-09,Confirmed,4621,Website,Consultant_16,Germany,Mobile,13,2,0
+BKG00685,CUST0073,Oslo,2023-06-24,2024-03-27,Confirmed,3504,App,Consultant_11,UK,Tablet,10,2,2
+BKG00686,CUST0399,Dubai,2023-04-19,2023-05-30,Confirmed,5016,Website,Consultant_5,Spain,Mobile,10,4,0
+BKG00687,CUST0405,Rome,2023-07-02,2023-09-07,Confirmed,4234,Agent,Consultant_13,Germany,Mobile,16,3,2
+BKG00688,CUST0163,Seoul,2023-07-11,2023-03-24,Confirmed,1744,Agent,Consultant_11,USA,Desktop,15,3,1
+BKG00689,CUST0066,Rome,2023-03-06,2025-02-02,Confirmed,6472,App,Consultant_19,Italy,Mobile,5,1,1
+BKG00690,CUST0347,Copenhagen,2024-04-18,2024-04-25,Confirmed,7139,Agent,Consultant_3,Italy,Tablet,6,1,0
+BKG00691,CUST0130,Tokyo,2023-04-10,2024-03-17,Confirmed,5856,Agent,Consultant_15,Netherlands,Mobile,17,2,1
+BKG00692,CUST0419,Paris,2024-06-27,2024-11-03,Confirmed,6880,Phone,Consultant_7,UK,Tablet,17,4,2
+BKG00693,CUST0466,Vienna,2023-05-08,2023-09-24,Confirmed,1508,App,Consultant_7,France,Desktop,15,2,1
+BKG00694,CUST0206,Copenhagen,2024-03-27,2025-02-26,Cancelled,4814,Phone,Consultant_6,France,Mobile,11,3,2
+BKG00695,CUST0276,Amsterdam,2024-01-04,2025-02-06,Confirmed,2010,Phone,Consultant_3,Spain,Desktop,12,2,2
+BKG00696,CUST0466,Amsterdam,2023-02-12,2025-01-19,Confirmed,2459,Website,Consultant_13,France,Mobile,14,2,1
+BKG00697,CUST0256,Oslo,2024-02-23,2024-03-11,Cancelled,3008,App,Consultant_7,UK,Tablet,16,3,2
+BKG00698,CUST0266,Rio,2024-05-02,2024-09-29,Confirmed,5258,Website,Consultant_5,Spain,Desktop,3,3,2
+BKG00699,CUST0025,Madrid,2023-03-19,2024-03-27,Confirmed,3182,Website,Consultant_18,Netherlands,Mobile,16,3,0
+BKG00700,CUST0450,San Francisco,2023-09-27,2025-01-11,Confirmed,7811,Phone,Consultant_8,Italy,Tablet,16,3,0
+BKG00701,CUST0281,Dubai,2024-11-04,2023-10-04,Confirmed,1489,Agent,Consultant_17,France,Desktop,10,1,0
+BKG00702,CUST0253,Amsterdam,2023-11-11,2023-04-12,Cancelled,4784,App,Consultant_20,Germany,Mobile,18,4,1
+BKG00703,CUST0310,Vienna,2023-06-17,2025-05-09,Cancelled,754,Agent,Consultant_1,UK,Desktop,16,4,0
+BKG00704,CUST0289,Milan,2023-12-05,2023-08-03,Confirmed,4663,Phone,Consultant_14,Spain,Mobile,3,3,2
+BKG00705,CUST0164,New York,2023-07-12,2023-02-05,Confirmed,5211,Phone,Consultant_17,Germany,Tablet,18,4,1
+BKG00706,CUST0095,Paris,2024-03-28,2023-08-24,Confirmed,6979,Phone,Consultant_10,UK,Tablet,20,4,1
+BKG00707,CUST0270,Rio,2023-10-10,2024-07-27,Confirmed,7314,Phone,Consultant_12,Spain,Desktop,9,4,1
+BKG00708,CUST0321,Istanbul,2023-12-02,2024-10-02,Confirmed,7464,Phone,Consultant_16,Netherlands,Desktop,17,4,1
+BKG00709,CUST0110,San Francisco,2024-01-25,2024-02-21,Confirmed,5469,Phone,Consultant_14,France,Mobile,19,3,2
+BKG00710,CUST0336,Barcelona,2024-06-08,2025-03-08,Confirmed,6943,Agent,Consultant_16,Italy,Tablet,15,2,2
+BKG00711,CUST0310,Vienna,2023-08-28,2024-12-29,Confirmed,6221,Website,Consultant_8,UK,Mobile,11,2,0
+BKG00712,CUST0238,Cape Town,2024-04-27,2023-04-16,Confirmed,4952,Agent,Consultant_10,UK,Tablet,17,2,1
+BKG00713,CUST0381,Barcelona,2024-10-20,2023-07-26,Confirmed,755,App,Consultant_17,Germany,Desktop,5,1,0
+BKG00714,CUST0436,Toronto,2024-08-14,2025-05-06,Confirmed,1507,Agent,Consultant_18,France,Mobile,3,4,2
+BKG00715,CUST0387,Istanbul,2024-07-08,2025-04-08,Cancelled,6996,Phone,Consultant_20,UK,Mobile,18,3,1
+BKG00716,CUST0483,Athens,2024-04-02,2024-01-14,Confirmed,2255,Agent,Consultant_16,UK,Tablet,10,3,2
+BKG00717,CUST0425,Seoul,2023-03-30,2023-10-12,Confirmed,3071,Website,Consultant_17,France,Tablet,15,1,0
+BKG00718,CUST0390,San Francisco,2024-10-21,2025-05-16,Pending,4408,App,Consultant_16,Netherlands,Tablet,10,3,2
+BKG00719,CUST0025,Istanbul,2023-04-05,2025-01-01,Confirmed,3497,Agent,Consultant_19,France,Desktop,19,2,1
+BKG00720,CUST0141,Amsterdam,2024-03-27,2023-12-04,Confirmed,3303,Website,Consultant_8,Italy,Mobile,16,1,1
+BKG00721,CUST0117,San Francisco,2024-03-03,2024-01-10,Confirmed,4265,Agent,Consultant_6,Germany,Tablet,9,3,0
+BKG00722,CUST0482,Cape Town,2023-05-31,2023-06-06,Confirmed,4879,App,Consultant_6,France,Desktop,17,1,1
+BKG00723,CUST0392,San Francisco,2024-05-28,2023-11-13,Confirmed,3883,Agent,Consultant_9,Spain,Tablet,18,1,2
+BKG00724,CUST0405,Vienna,2024-01-11,2025-03-06,Confirmed,598,Phone,Consultant_4,USA,Mobile,8,3,2
+BKG00725,CUST0482,Bangkok,2023-01-22,2025-01-24,Confirmed,696,Agent,Consultant_12,Germany,Tablet,3,2,2
+BKG00726,CUST0452,Athens,2023-11-09,2025-03-02,Cancelled,3029,Website,Consultant_12,USA,Mobile,14,3,2
+BKG00727,CUST0025,Paris,2024-06-02,2024-09-17,Confirmed,1377,Agent,Consultant_17,Spain,Desktop,20,4,0
+BKG00728,CUST0079,Prague,2023-07-25,2024-05-31,Confirmed,7893,Website,Consultant_15,Netherlands,Desktop,18,4,2
+BKG00729,CUST0068,Helsinki,2024-01-10,2024-02-17,Cancelled,2368,App,Consultant_9,Netherlands,Tablet,14,3,0
+BKG00730,CUST0173,Helsinki,2024-03-26,2024-03-11,Confirmed,7258,Agent,Consultant_7,Spain,Mobile,15,2,2
+BKG00731,CUST0444,San Francisco,2024-09-17,2024-02-22,Cancelled,3165,App,Consultant_10,Spain,Mobile,10,4,0
+BKG00732,CUST0012,New York,2024-08-17,2024-07-08,Confirmed,1888,App,Consultant_16,UK,Mobile,3,4,2
+BKG00733,CUST0288,Bangkok,2023-06-28,2024-08-09,Cancelled,2915,Agent,Consultant_12,UK,Tablet,9,3,2
+BKG00734,CUST0128,Oslo,2023-07-29,2024-10-30,Confirmed,1069,Website,Consultant_7,France,Mobile,17,3,0
+BKG00735,CUST0096,Tokyo,2024-05-14,2024-10-17,Cancelled,3137,App,Consultant_18,Netherlands,Mobile,15,3,1
+BKG00736,CUST0092,Tokyo,2024-04-08,2023-11-02,Pending,7742,App,Consultant_15,Germany,Mobile,15,1,1
+BKG00737,CUST0141,Seoul,2023-05-04,2024-06-13,Confirmed,1565,Agent,Consultant_6,France,Mobile,11,1,1
+BKG00738,CUST0031,Lisbon,2023-04-23,2025-01-16,Confirmed,921,Agent,Consultant_12,Netherlands,Tablet,17,1,0
+BKG00739,CUST0334,San Francisco,2023-01-12,2024-01-02,Confirmed,3383,Agent,Consultant_11,UK,Tablet,6,3,1
+BKG00740,CUST0020,Tokyo,2023-05-06,2024-05-25,Confirmed,1704,Agent,Consultant_20,UK,Mobile,15,2,1
+BKG00741,CUST0146,San Francisco,2024-07-18,2023-10-30,Confirmed,1044,Agent,Consultant_3,Netherlands,Mobile,14,4,0
+BKG00742,CUST0477,Seoul,2023-11-27,2023-03-29,Confirmed,4666,Phone,Consultant_2,Germany,Desktop,7,1,1
+BKG00743,CUST0316,Helsinki,2023-10-10,2023-12-24,Confirmed,4139,Agent,Consultant_6,USA,Desktop,9,2,1
+BKG00744,CUST0447,Milan,2023-05-20,2025-01-30,Confirmed,7772,Website,Consultant_5,Netherlands,Mobile,10,3,1
+BKG00745,CUST0390,Prague,2024-02-05,2023-05-19,Confirmed,1723,App,Consultant_18,Spain,Mobile,7,1,0
+BKG00746,CUST0160,Copenhagen,2023-04-07,2023-11-05,Confirmed,3672,Website,Consultant_16,Italy,Desktop,11,3,0
+BKG00747,CUST0349,Tokyo,2024-05-31,2024-12-16,Confirmed,1267,Website,Consultant_8,USA,Desktop,16,2,1
+BKG00748,CUST0043,Prague,2024-07-22,2023-12-24,Confirmed,6950,Phone,Consultant_20,Germany,Mobile,14,1,1
+BKG00749,CUST0254,Istanbul,2023-03-10,2025-03-16,Confirmed,4157,Agent,Consultant_11,France,Tablet,6,1,0
+BKG00750,CUST0130,Bangkok,2023-04-28,2023-12-11,Confirmed,6302,App,Consultant_10,USA,Tablet,10,1,1
+BKG00751,CUST0060,Cape Town,2023-02-28,2024-05-18,Confirmed,7020,Website,Consultant_12,UK,Mobile,19,1,0
+BKG00752,CUST0151,Milan,2023-02-02,2023-05-21,Confirmed,1154,Agent,Consultant_6,Italy,Mobile,10,2,1
+BKG00753,CUST0467,Bangkok,2023-11-14,2024-12-29,Confirmed,7321,Agent,Consultant_20,UK,Desktop,3,1,0
+BKG00754,CUST0287,Istanbul,2023-02-19,2025-03-21,Cancelled,2946,Phone,Consultant_5,France,Desktop,4,4,2
+BKG00755,CUST0499,Cape Town,2024-05-03,2023-09-16,Confirmed,6392,Phone,Consultant_9,France,Tablet,6,4,2
+BKG00756,CUST0005,Istanbul,2023-01-19,2024-06-10,Confirmed,720,Phone,Consultant_16,Italy,Mobile,3,3,0
+BKG00757,CUST0467,Paris,2023-07-16,2023-07-05,Confirmed,4166,App,Consultant_14,USA,Desktop,9,1,2
+BKG00758,CUST0418,Vienna,2024-03-25,2024-05-17,Cancelled,4777,Website,Consultant_8,Netherlands,Tablet,3,4,1
+BKG00759,CUST0266,Dubai,2024-07-12,2024-12-31,Pending,4902,Phone,Consultant_20,Spain,Tablet,11,4,0
+BKG00760,CUST0345,Milan,2024-11-09,2023-10-29,Confirmed,3069,Phone,Consultant_19,Netherlands,Tablet,5,4,0
+BKG00761,CUST0130,Dubai,2024-03-27,2023-02-01,Confirmed,6015,Phone,Consultant_14,Spain,Desktop,14,2,1
+BKG00762,CUST0382,Vienna,2023-10-16,2025-02-26,Cancelled,1513,Website,Consultant_7,Netherlands,Desktop,17,1,1
+BKG00763,CUST0267,Vienna,2023-05-21,2025-01-21,Confirmed,2551,Website,Consultant_5,Germany,Mobile,18,2,0
+BKG00764,CUST0178,Helsinki,2023-03-25,2024-06-24,Confirmed,7506,Phone,Consultant_18,UK,Mobile,12,2,1
+BKG00765,CUST0253,Istanbul,2024-11-24,2023-11-12,Confirmed,4485,Phone,Consultant_2,Italy,Tablet,8,4,0
+BKG00766,CUST0415,Dubai,2024-01-26,2023-02-12,Confirmed,5443,Agent,Consultant_11,Germany,Tablet,19,4,1
+BKG00767,CUST0056,Toronto,2024-08-13,2024-09-29,Pending,5399,Phone,Consultant_8,Italy,Desktop,19,3,0
+BKG00768,CUST0463,Paris,2023-08-03,2024-06-11,Pending,7948,App,Consultant_1,Netherlands,Desktop,20,1,1
+BKG00769,CUST0457,Istanbul,2024-06-09,2025-02-01,Cancelled,4810,App,Consultant_12,Spain,Mobile,13,1,1
+BKG00770,CUST0471,Prague,2023-08-03,2023-09-25,Confirmed,3519,Phone,Consultant_2,USA,Mobile,9,4,2
+BKG00771,CUST0083,Lisbon,2024-02-07,2023-05-04,Cancelled,4181,Website,Consultant_18,Spain,Mobile,12,4,2
+BKG00772,CUST0393,Vienna,2023-05-08,2024-01-03,Confirmed,1943,Agent,Consultant_7,Netherlands,Desktop,9,1,2
+BKG00773,CUST0099,Rio,2024-04-21,2025-03-21,Confirmed,4696,Website,Consultant_17,France,Tablet,7,3,1
+BKG00774,CUST0149,Cape Town,2024-02-08,2023-07-20,Cancelled,3510,Phone,Consultant_14,Germany,Mobile,14,4,0
+BKG00775,CUST0329,Copenhagen,2023-01-29,2024-09-27,Confirmed,1072,App,Consultant_7,Italy,Mobile,18,3,1
+BKG00776,CUST0156,Istanbul,2023-12-04,2024-11-21,Confirmed,1832,Agent,Consultant_3,Germany,Desktop,20,2,2
+BKG00777,CUST0190,Sydney,2023-12-27,2024-10-15,Confirmed,5253,Website,Consultant_6,France,Mobile,5,4,1
+BKG00778,CUST0494,Copenhagen,2024-07-22,2024-08-19,Cancelled,7582,Website,Consultant_20,Netherlands,Tablet,17,2,2
+BKG00779,CUST0371,San Francisco,2024-01-27,2025-05-28,Confirmed,4502,Phone,Consultant_2,Italy,Desktop,7,4,2
+BKG00780,CUST0263,Sydney,2023-08-06,2024-05-11,Confirmed,6129,Agent,Consultant_17,France,Mobile,15,2,0
+BKG00781,CUST0080,Athens,2024-07-27,2024-10-19,Confirmed,3634,App,Consultant_12,France,Mobile,14,4,0
+BKG00782,CUST0400,Madrid,2024-10-30,2023-06-22,Cancelled,6252,Phone,Consultant_12,USA,Desktop,7,3,2
+BKG00783,CUST0252,Madrid,2023-07-21,2023-08-19,Cancelled,4586,Agent,Consultant_17,Italy,Desktop,8,3,2
+BKG00784,CUST0097,Rome,2023-01-17,2023-07-29,Confirmed,725,Website,Consultant_10,Germany,Mobile,9,3,1
+BKG00785,CUST0260,Berlin,2023-11-18,2025-01-13,Confirmed,4700,Phone,Consultant_3,France,Tablet,12,2,2
+BKG00786,CUST0260,Paris,2024-06-01,2024-01-29,Confirmed,2497,Website,Consultant_20,UK,Desktop,18,3,1
+BKG00787,CUST0103,Berlin,2024-07-23,2024-05-23,Pending,1271,Website,Consultant_18,Spain,Tablet,10,2,2
+BKG00788,CUST0040,Madrid,2023-11-21,2024-08-17,Confirmed,7922,Phone,Consultant_13,France,Mobile,11,4,0
+BKG00789,CUST0273,Lisbon,2024-02-16,2024-05-15,Pending,5024,Phone,Consultant_12,Italy,Tablet,6,2,0
+BKG00790,CUST0101,Milan,2023-11-14,2024-02-18,Confirmed,933,Phone,Consultant_17,Germany,Mobile,10,4,2
+BKG00791,CUST0359,Sydney,2024-11-11,2024-12-22,Cancelled,5826,Phone,Consultant_4,USA,Mobile,9,1,1
+BKG00792,CUST0380,Vienna,2023-03-23,2024-03-22,Cancelled,3599,Phone,Consultant_10,Spain,Mobile,17,1,1
+BKG00793,CUST0308,Athens,2024-04-18,2025-05-04,Confirmed,3229,Website,Consultant_11,USA,Mobile,5,1,1
+BKG00794,CUST0221,San Francisco,2024-04-12,2023-12-04,Pending,3907,App,Consultant_6,Spain,Tablet,19,2,2
+BKG00795,CUST0308,Paris,2024-02-29,2024-11-09,Confirmed,7231,App,Consultant_6,Italy,Mobile,13,1,2
+BKG00796,CUST0420,Dubai,2024-11-19,2024-12-24,Confirmed,3640,Phone,Consultant_9,Germany,Mobile,11,1,0
+BKG00797,CUST0124,Milan,2023-07-23,2024-02-01,Confirmed,1365,Website,Consultant_15,France,Tablet,7,1,0
+BKG00798,CUST0422,Sydney,2024-08-05,2023-01-31,Cancelled,3293,App,Consultant_2,Netherlands,Desktop,12,4,2
+BKG00799,CUST0231,Tokyo,2024-01-22,2023-03-15,Confirmed,7834,App,Consultant_4,France,Tablet,17,3,0
+BKG00800,CUST0178,Prague,2023-04-08,2025-02-07,Confirmed,3411,App,Consultant_5,UK,Tablet,16,2,1
+BKG00801,CUST0063,Rome,2023-12-11,2025-05-22,Confirmed,2915,Website,Consultant_17,Germany,Tablet,6,1,1
+BKG00802,CUST0485,Tokyo,2023-07-27,2023-05-08,Confirmed,750,Phone,Consultant_8,Germany,Mobile,4,4,2
+BKG00803,CUST0116,New York,2024-05-28,2025-01-19,Confirmed,7502,Phone,Consultant_8,Italy,Mobile,14,3,1
+BKG00804,CUST0191,Rome,2024-09-27,2023-10-22,Confirmed,5451,Phone,Consultant_12,Spain,Mobile,3,3,2
+BKG00805,CUST0062,Milan,2024-08-08,2025-04-09,Cancelled,4257,Agent,Consultant_8,France,Desktop,7,3,1
+BKG00806,CUST0256,Bangkok,2023-06-15,2025-03-23,Confirmed,5789,Agent,Consultant_19,UK,Mobile,8,4,2
+BKG00807,CUST0483,Istanbul,2023-01-22,2023-06-19,Confirmed,7757,Agent,Consultant_3,Germany,Desktop,13,1,1
+BKG00808,CUST0007,New York,2023-06-03,2024-05-25,Confirmed,5156,Website,Consultant_18,UK,Mobile,10,3,1
+BKG00809,CUST0155,Cape Town,2024-03-14,2023-09-24,Confirmed,6065,App,Consultant_19,Netherlands,Tablet,9,4,0
+BKG00810,CUST0092,Madrid,2023-10-22,2023-04-12,Cancelled,6937,App,Consultant_19,USA,Mobile,6,4,0
+BKG00811,CUST0470,Milan,2023-08-07,2024-11-27,Pending,1418,Website,Consultant_15,UK,Desktop,8,2,0
+BKG00812,CUST0014,Oslo,2024-10-30,2023-08-08,Confirmed,1673,Website,Consultant_6,France,Desktop,18,4,0
+BKG00813,CUST0455,Tokyo,2024-05-09,2023-10-25,Cancelled,3703,Phone,Consultant_16,USA,Mobile,17,3,0
+BKG00814,CUST0229,Rio,2023-08-18,2023-12-17,Cancelled,932,Phone,Consultant_8,Netherlands,Tablet,16,3,0
+BKG00815,CUST0086,Prague,2023-01-20,2023-05-17,Cancelled,6702,Agent,Consultant_16,Spain,Mobile,14,4,2
+BKG00816,CUST0133,Barcelona,2024-07-06,2023-09-19,Confirmed,5564,Agent,Consultant_18,Germany,Mobile,14,3,2
+BKG00817,CUST0183,Athens,2023-05-28,2023-03-13,Pending,1335,Website,Consultant_20,UK,Mobile,18,4,0
+BKG00818,CUST0386,Amsterdam,2023-04-18,2025-01-01,Confirmed,2746,Agent,Consultant_16,Germany,Tablet,17,3,2
+BKG00819,CUST0062,Helsinki,2024-02-07,2023-06-18,Confirmed,2762,App,Consultant_11,Netherlands,Desktop,15,2,0
+BKG00820,CUST0219,Rome,2024-08-18,2024-10-06,Confirmed,1397,Website,Consultant_7,Spain,Tablet,13,1,2
+BKG00821,CUST0405,Amsterdam,2024-04-27,2024-12-13,Confirmed,4132,Website,Consultant_17,UK,Desktop,19,2,1
+BKG00822,CUST0246,Barcelona,2024-01-02,2025-06-11,Confirmed,5067,App,Consultant_17,Spain,Desktop,17,2,2
+BKG00823,CUST0230,Toronto,2024-02-18,2023-10-30,Confirmed,4315,Phone,Consultant_12,Netherlands,Desktop,16,1,2
+BKG00824,CUST0079,Vienna,2023-11-05,2024-05-25,Confirmed,746,Phone,Consultant_13,Italy,Tablet,12,3,2
+BKG00825,CUST0149,Rome,2023-05-14,2024-03-21,Cancelled,2929,App,Consultant_10,UK,Mobile,14,1,1
+BKG00826,CUST0138,San Francisco,2023-10-10,2024-06-19,Cancelled,1490,App,Consultant_7,USA,Mobile,18,4,0
+BKG00827,CUST0471,Tokyo,2023-03-14,2025-02-01,Confirmed,3810,Agent,Consultant_14,France,Mobile,17,1,2
+BKG00828,CUST0314,Dubai,2024-04-25,2025-01-24,Cancelled,1426,Website,Consultant_1,Netherlands,Mobile,12,2,2
+BKG00829,CUST0376,Barcelona,2023-12-18,2025-06-01,Cancelled,3938,Agent,Consultant_17,Spain,Mobile,6,1,1
+BKG00830,CUST0423,Bangkok,2024-07-13,2024-03-29,Cancelled,5787,App,Consultant_4,Netherlands,Tablet,11,3,0
+BKG00831,CUST0389,Paris,2023-11-22,2024-03-12,Confirmed,3107,Agent,Consultant_5,Germany,Tablet,11,2,2
+BKG00832,CUST0065,Copenhagen,2024-03-18,2024-08-20,Confirmed,1574,App,Consultant_20,Spain,Tablet,13,4,1
+BKG00833,CUST0013,Istanbul,2023-04-10,2024-02-24,Pending,6430,Agent,Consultant_7,USA,Tablet,13,3,0
+BKG00834,CUST0213,Sydney,2023-02-28,2024-01-07,Confirmed,4522,Agent,Consultant_10,Spain,Tablet,9,2,0
+BKG00835,CUST0474,Lisbon,2024-05-22,2024-10-05,Confirmed,4299,Phone,Consultant_17,Spain,Tablet,12,4,2
+BKG00836,CUST0242,Helsinki,2023-09-15,2024-06-06,Confirmed,5284,App,Consultant_7,Germany,Tablet,6,3,2
+BKG00837,CUST0493,San Francisco,2024-02-17,2023-08-10,Confirmed,7023,Agent,Consultant_1,Germany,Mobile,7,4,2
+BKG00838,CUST0213,Rio,2024-03-27,2024-06-12,Confirmed,7117,Website,Consultant_7,Italy,Desktop,7,1,2
+BKG00839,CUST0181,Copenhagen,2023-03-06,2025-05-01,Confirmed,3651,Agent,Consultant_11,Spain,Tablet,13,1,1
+BKG00840,CUST0338,Seoul,2024-08-17,2025-01-11,Confirmed,7340,Agent,Consultant_9,France,Desktop,11,4,1
+BKG00841,CUST0485,Rio,2023-06-03,2023-09-20,Cancelled,3938,Website,Consultant_12,Germany,Tablet,18,1,2
+BKG00842,CUST0173,Amsterdam,2023-09-23,2023-09-14,Cancelled,6080,App,Consultant_3,Spain,Tablet,11,4,0
+BKG00843,CUST0160,Helsinki,2023-03-20,2024-02-05,Confirmed,7554,Phone,Consultant_4,Italy,Mobile,6,3,2
+BKG00844,CUST0164,Oslo,2023-11-11,2023-06-18,Pending,5555,Phone,Consultant_4,Netherlands,Desktop,4,2,0
+BKG00845,CUST0465,Bangkok,2024-10-23,2025-06-04,Confirmed,5073,Phone,Consultant_13,UK,Mobile,16,4,0
+BKG00846,CUST0483,Madrid,2024-07-13,2025-04-26,Confirmed,7647,Website,Consultant_19,Italy,Mobile,5,2,0
+BKG00847,CUST0497,Berlin,2023-09-05,2023-06-28,Cancelled,7569,Agent,Consultant_10,USA,Desktop,20,2,1
+BKG00848,CUST0188,Barcelona,2024-09-01,2023-05-25,Cancelled,3991,App,Consultant_5,Germany,Mobile,8,4,0
+BKG00849,CUST0395,Istanbul,2024-02-18,2024-04-24,Pending,1206,Agent,Consultant_7,Netherlands,Tablet,13,1,0
+BKG00850,CUST0191,Copenhagen,2023-01-25,2023-04-03,Confirmed,7881,Phone,Consultant_16,USA,Tablet,20,3,1
+BKG00851,CUST0405,Tokyo,2023-10-11,2023-05-14,Cancelled,7497,Agent,Consultant_1,Italy,Tablet,14,2,0
+BKG00852,CUST0308,Helsinki,2024-03-24,2025-05-30,Confirmed,5733,Website,Consultant_12,Spain,Tablet,7,3,0
+BKG00853,CUST0256,Amsterdam,2023-10-28,2024-11-28,Cancelled,3564,Website,Consultant_2,Netherlands,Tablet,11,2,2
+BKG00854,CUST0183,Dubai,2023-03-09,2023-10-30,Cancelled,1253,App,Consultant_7,USA,Mobile,20,4,0
+BKG00855,CUST0117,Rome,2023-01-07,2023-02-05,Confirmed,7146,App,Consultant_11,France,Mobile,5,1,0
+BKG00856,CUST0282,Barcelona,2023-05-17,2023-06-26,Confirmed,6255,Phone,Consultant_13,France,Tablet,11,3,0
+BKG00857,CUST0196,Barcelona,2023-06-13,2023-08-02,Cancelled,7460,App,Consultant_2,France,Tablet,6,2,0
+BKG00858,CUST0034,Dubai,2023-03-24,2023-02-27,Confirmed,1087,Agent,Consultant_7,Netherlands,Mobile,19,4,0
+BKG00859,CUST0052,Sydney,2024-10-11,2024-08-02,Confirmed,1834,Website,Consultant_15,USA,Desktop,19,4,1
+BKG00860,CUST0112,Tokyo,2024-02-24,2023-05-29,Cancelled,6088,Website,Consultant_11,Spain,Mobile,4,2,0
+BKG00861,CUST0252,Copenhagen,2023-03-14,2023-11-19,Confirmed,2347,Website,Consultant_2,Italy,Mobile,11,2,0
+BKG00862,CUST0082,Vienna,2023-08-25,2024-02-05,Cancelled,7351,App,Consultant_7,Netherlands,Mobile,11,2,1
+BKG00863,CUST0232,Bangkok,2023-02-15,2023-10-01,Confirmed,4434,Website,Consultant_4,Spain,Mobile,7,1,1
+BKG00864,CUST0227,Toronto,2024-09-09,2024-09-01,Confirmed,7711,Website,Consultant_11,Spain,Mobile,17,2,0
+BKG00865,CUST0233,Rio,2023-09-19,2025-01-25,Cancelled,4426,Website,Consultant_2,UK,Desktop,17,2,0
+BKG00866,CUST0221,Oslo,2023-06-25,2023-09-05,Confirmed,3817,Phone,Consultant_16,Germany,Tablet,5,1,0
+BKG00867,CUST0436,Berlin,2023-06-15,2023-07-26,Confirmed,4520,Phone,Consultant_7,Spain,Tablet,5,4,2
+BKG00868,CUST0413,Paris,2024-10-18,2023-11-25,Cancelled,3655,App,Consultant_13,Germany,Desktop,8,2,2
+BKG00869,CUST0422,Seoul,2024-01-05,2024-12-06,Confirmed,4802,Website,Consultant_5,France,Tablet,6,3,0
+BKG00870,CUST0042,Prague,2023-02-23,2023-03-29,Confirmed,2698,App,Consultant_17,Spain,Tablet,15,4,1
+BKG00871,CUST0021,Rome,2024-11-20,2023-10-26,Confirmed,7311,Website,Consultant_12,Spain,Tablet,15,3,0
+BKG00872,CUST0042,Seoul,2024-02-23,2023-12-04,Cancelled,7171,Website,Consultant_19,Netherlands,Desktop,13,2,1
+BKG00873,CUST0397,Lisbon,2024-05-21,2024-08-22,Cancelled,664,Website,Consultant_7,Italy,Desktop,7,1,1
+BKG00874,CUST0113,Prague,2023-12-07,2023-11-14,Cancelled,7560,App,Consultant_6,Spain,Tablet,3,1,1
+BKG00875,CUST0105,Berlin,2023-05-07,2023-05-15,Confirmed,2498,App,Consultant_8,France,Tablet,11,1,0
+BKG00876,CUST0192,Lisbon,2024-02-13,2023-09-15,Cancelled,7812,Website,Consultant_13,USA,Tablet,19,2,0
+BKG00877,CUST0017,Seoul,2024-01-02,2023-10-04,Confirmed,3557,Agent,Consultant_5,UK,Mobile,3,2,1
+BKG00878,CUST0120,Paris,2023-09-28,2024-12-30,Confirmed,2584,App,Consultant_2,UK,Mobile,5,3,2
+BKG00879,CUST0393,Paris,2024-10-05,2024-06-07,Confirmed,4928,Phone,Consultant_9,Spain,Mobile,17,1,2
+BKG00880,CUST0425,Sydney,2024-08-27,2023-04-23,Cancelled,902,App,Consultant_11,Italy,Desktop,12,2,2
+BKG00881,CUST0129,Athens,2024-01-14,2023-08-04,Cancelled,913,Website,Consultant_6,USA,Tablet,10,4,1
+BKG00882,CUST0130,Milan,2023-03-14,2023-10-09,Confirmed,544,Agent,Consultant_7,Germany,Desktop,14,2,0
+BKG00883,CUST0060,New York,2023-09-05,2024-01-20,Confirmed,6849,Website,Consultant_7,Spain,Desktop,17,2,1
+BKG00884,CUST0048,Madrid,2023-02-12,2025-02-18,Cancelled,4657,Phone,Consultant_19,France,Desktop,11,4,2
+BKG00885,CUST0029,Barcelona,2024-01-12,2024-12-26,Confirmed,2967,App,Consultant_6,UK,Tablet,12,1,0
+BKG00886,CUST0097,Bangkok,2023-02-10,2025-04-05,Pending,1367,App,Consultant_11,Italy,Mobile,11,4,1
+BKG00887,CUST0010,Sydney,2023-06-19,2023-08-28,Confirmed,6087,Website,Consultant_11,Italy,Tablet,17,1,1
+BKG00888,CUST0242,Bangkok,2023-07-31,2025-04-25,Confirmed,7463,Website,Consultant_7,Netherlands,Tablet,3,4,2
+BKG00889,CUST0314,San Francisco,2024-05-07,2025-04-17,Confirmed,518,Phone,Consultant_2,Germany,Desktop,4,3,1
+BKG00890,CUST0444,San Francisco,2024-11-10,2024-09-30,Confirmed,864,Agent,Consultant_19,Italy,Desktop,16,1,0
+BKG00891,CUST0232,Amsterdam,2023-02-08,2024-04-21,Pending,7967,Phone,Consultant_4,Italy,Desktop,10,2,2
+BKG00892,CUST0277,Lisbon,2024-01-04,2024-05-04,Confirmed,7674,Agent,Consultant_6,Spain,Mobile,8,3,2
+BKG00893,CUST0284,Vienna,2023-05-31,2024-05-16,Cancelled,4332,App,Consultant_17,USA,Mobile,14,1,0
+BKG00894,CUST0203,Rome,2023-04-21,2025-01-19,Confirmed,7071,Agent,Consultant_5,Spain,Mobile,17,1,2
+BKG00895,CUST0247,Toronto,2024-04-24,2024-02-04,Confirmed,5736,Agent,Consultant_7,Italy,Tablet,16,1,1
+BKG00896,CUST0290,Athens,2024-03-11,2024-06-05,Confirmed,1079,App,Consultant_9,Netherlands,Desktop,3,4,1
+BKG00897,CUST0264,Seoul,2023-02-16,2023-06-16,Confirmed,1045,App,Consultant_1,USA,Tablet,13,1,2
+BKG00898,CUST0443,Dubai,2024-07-28,2024-02-01,Pending,6325,App,Consultant_1,France,Mobile,5,2,0
+BKG00899,CUST0214,Amsterdam,2024-01-01,2023-08-02,Confirmed,6968,Phone,Consultant_19,UK,Desktop,20,1,1
+BKG00900,CUST0200,Paris,2023-03-10,2024-09-09,Confirmed,4650,App,Consultant_6,USA,Mobile,4,2,0
+BKG00901,CUST0433,Berlin,2023-10-26,2023-11-13,Confirmed,5373,Website,Consultant_18,USA,Desktop,9,2,1
+BKG00902,CUST0079,San Francisco,2023-10-23,2024-05-16,Confirmed,3539,App,Consultant_10,Netherlands,Desktop,10,2,1
+BKG00903,CUST0401,Istanbul,2023-07-22,2024-02-09,Confirmed,4637,App,Consultant_11,Netherlands,Tablet,17,3,2
+BKG00904,CUST0444,Madrid,2023-03-02,2024-11-14,Cancelled,5916,App,Consultant_1,Spain,Tablet,12,2,2
+BKG00905,CUST0343,Lisbon,2023-11-10,2025-02-17,Confirmed,4544,Agent,Consultant_1,Germany,Mobile,3,4,0
+BKG00906,CUST0344,Seoul,2023-06-10,2024-07-20,Confirmed,4826,Phone,Consultant_13,Netherlands,Tablet,8,1,2
+BKG00907,CUST0173,Seoul,2023-11-27,2024-06-24,Confirmed,952,App,Consultant_5,Germany,Tablet,15,4,1
+BKG00908,CUST0467,Barcelona,2024-06-11,2025-04-11,Pending,4461,Phone,Consultant_20,USA,Tablet,16,3,1
+BKG00909,CUST0069,Bangkok,2023-12-04,2024-08-31,Confirmed,7037,Website,Consultant_1,Spain,Desktop,5,1,0
+BKG00910,CUST0416,Istanbul,2024-08-28,2023-10-07,Confirmed,6141,Website,Consultant_20,Spain,Tablet,13,2,0
+BKG00911,CUST0428,Berlin,2023-10-31,2024-06-23,Confirmed,1881,App,Consultant_3,USA,Mobile,5,1,1
+BKG00912,CUST0449,Cape Town,2024-05-17,2024-10-21,Confirmed,1967,Website,Consultant_18,France,Desktop,12,3,2
+BKG00913,CUST0087,Oslo,2024-10-11,2023-04-13,Confirmed,5747,Phone,Consultant_9,Germany,Desktop,17,3,2
+BKG00914,CUST0101,Bangkok,2023-12-04,2023-11-08,Confirmed,3238,Agent,Consultant_14,Spain,Tablet,13,4,0
+BKG00915,CUST0008,New York,2024-07-03,2024-01-25,Cancelled,7035,App,Consultant_17,USA,Desktop,17,1,0
+BKG00916,CUST0333,Milan,2024-09-30,2023-02-09,Confirmed,1716,Website,Consultant_14,Netherlands,Mobile,15,1,1
+BKG00917,CUST0200,Madrid,2023-10-02,2023-08-29,Cancelled,7247,Phone,Consultant_4,Netherlands,Mobile,7,1,1
+BKG00918,CUST0087,Amsterdam,2023-06-13,2025-05-14,Confirmed,1380,Phone,Consultant_5,Netherlands,Desktop,6,4,0
+BKG00919,CUST0043,Sydney,2024-03-18,2023-07-01,Confirmed,4314,Website,Consultant_17,UK,Tablet,15,3,1
+BKG00920,CUST0385,Helsinki,2023-11-15,2023-02-04,Confirmed,3649,Phone,Consultant_2,Italy,Tablet,11,2,0
+BKG00921,CUST0109,New York,2024-08-11,2023-08-13,Confirmed,584,Phone,Consultant_5,Germany,Desktop,19,1,0
+BKG00922,CUST0435,Lisbon,2024-05-18,2023-11-09,Cancelled,5649,App,Consultant_4,Germany,Mobile,4,4,2
+BKG00923,CUST0408,Lisbon,2024-11-16,2024-05-08,Confirmed,4644,Phone,Consultant_4,Spain,Desktop,7,4,0
+BKG00924,CUST0483,New York,2024-01-22,2023-05-23,Confirmed,1668,Website,Consultant_6,Spain,Tablet,18,2,1
+BKG00925,CUST0152,Lisbon,2024-08-25,2023-10-28,Confirmed,4664,App,Consultant_20,Spain,Tablet,9,3,2
+BKG00926,CUST0017,Barcelona,2024-11-21,2023-07-12,Pending,3629,Website,Consultant_13,Spain,Desktop,3,1,2
+BKG00927,CUST0133,Copenhagen,2024-05-08,2024-05-04,Confirmed,7340,Agent,Consultant_5,Italy,Mobile,14,1,1
+BKG00928,CUST0148,Amsterdam,2024-05-04,2023-05-15,Pending,4145,Website,Consultant_7,USA,Desktop,13,4,1
+BKG00929,CUST0277,Berlin,2023-03-14,2024-12-23,Confirmed,3026,Website,Consultant_20,Italy,Mobile,14,3,1
+BKG00930,CUST0232,Madrid,2024-05-23,2024-08-08,Confirmed,3367,App,Consultant_1,Germany,Mobile,14,1,0
+BKG00931,CUST0314,Tokyo,2024-01-25,2023-11-08,Confirmed,4016,Phone,Consultant_14,Germany,Desktop,14,2,2
+BKG00932,CUST0415,San Francisco,2024-09-10,2024-12-17,Confirmed,3867,Website,Consultant_4,Netherlands,Desktop,16,3,0
+BKG00933,CUST0366,Istanbul,2023-10-22,2023-07-11,Confirmed,6297,App,Consultant_17,Italy,Mobile,4,3,0
+BKG00934,CUST0228,Sydney,2024-01-04,2024-01-16,Confirmed,7838,Agent,Consultant_14,Germany,Mobile,4,4,0
+BKG00935,CUST0139,Athens,2024-11-24,2024-04-08,Pending,6194,App,Consultant_16,USA,Mobile,6,4,0
+BKG00936,CUST0436,San Francisco,2024-07-02,2025-05-31,Cancelled,2694,App,Consultant_14,France,Mobile,18,1,2
+BKG00937,CUST0399,Istanbul,2024-10-10,2023-06-19,Cancelled,4055,Phone,Consultant_16,Netherlands,Tablet,12,4,2
+BKG00938,CUST0211,Toronto,2024-07-21,2024-05-15,Confirmed,7973,Website,Consultant_20,USA,Desktop,15,3,0
+BKG00939,CUST0391,Oslo,2023-07-06,2023-06-11,Confirmed,6465,Agent,Consultant_8,UK,Mobile,4,1,1
+BKG00940,CUST0499,Berlin,2024-03-20,2023-04-27,Confirmed,5611,App,Consultant_3,Germany,Desktop,5,1,2
+BKG00941,CUST0028,Lisbon,2024-07-23,2024-12-18,Cancelled,7252,Website,Consultant_19,Spain,Mobile,8,3,0
+BKG00942,CUST0051,Lisbon,2023-12-29,2023-08-01,Pending,945,Website,Consultant_1,Germany,Desktop,10,1,1
+BKG00943,CUST0491,Tokyo,2023-05-03,2024-02-02,Confirmed,6864,App,Consultant_2,USA,Desktop,16,2,1
+BKG00944,CUST0442,San Francisco,2023-07-07,2023-06-08,Confirmed,4126,Website,Consultant_15,France,Mobile,12,2,0
+BKG00945,CUST0261,Istanbul,2024-11-10,2023-10-03,Confirmed,4516,App,Consultant_10,Spain,Mobile,5,1,2
+BKG00946,CUST0261,Rome,2024-02-24,2024-09-22,Confirmed,4375,App,Consultant_18,Italy,Desktop,8,4,1
+BKG00947,CUST0350,Istanbul,2024-09-17,2024-08-30,Confirmed,5997,App,Consultant_14,Spain,Desktop,17,2,2
+BKG00948,CUST0352,Oslo,2023-09-09,2024-11-30,Confirmed,3837,Agent,Consultant_17,Germany,Desktop,20,1,2
+BKG00949,CUST0008,Helsinki,2024-09-10,2024-02-12,Cancelled,6738,App,Consultant_13,UK,Tablet,16,2,1
+BKG00950,CUST0320,Copenhagen,2024-07-02,2023-06-28,Confirmed,761,Phone,Consultant_1,Germany,Mobile,12,4,0
+BKG00951,CUST0138,Milan,2023-12-01,2025-05-31,Confirmed,2348,Website,Consultant_5,Germany,Tablet,17,3,1
+BKG00952,CUST0038,Barcelona,2023-04-02,2024-04-07,Pending,5492,Agent,Consultant_13,Germany,Tablet,6,1,1
+BKG00953,CUST0111,New York,2024-06-13,2024-10-19,Confirmed,5690,Website,Consultant_14,Netherlands,Mobile,4,1,2
+BKG00954,CUST0480,Rome,2023-03-04,2025-01-25,Confirmed,4525,Agent,Consultant_3,Netherlands,Mobile,5,1,0
+BKG00955,CUST0368,Istanbul,2024-10-23,2024-05-13,Confirmed,2766,Phone,Consultant_15,USA,Tablet,9,1,2
+BKG00956,CUST0220,Milan,2024-05-26,2024-04-20,Confirmed,6152,Agent,Consultant_19,Spain,Mobile,18,1,1
+BKG00957,CUST0337,San Francisco,2023-05-19,2024-05-25,Confirmed,591,Agent,Consultant_17,Italy,Desktop,12,1,0
+BKG00958,CUST0223,Helsinki,2024-11-28,2023-11-20,Cancelled,4722,Agent,Consultant_3,Italy,Desktop,19,4,0
+BKG00959,CUST0136,Cape Town,2023-07-04,2025-03-05,Confirmed,4675,Website,Consultant_16,Spain,Tablet,7,3,0
+BKG00960,CUST0256,Dubai,2023-07-24,2023-06-22,Confirmed,6443,App,Consultant_14,Italy,Tablet,15,4,0
+BKG00961,CUST0360,Helsinki,2023-08-02,2023-10-07,Confirmed,3809,Website,Consultant_12,Germany,Mobile,15,4,0
+BKG00962,CUST0409,Dubai,2023-09-13,2023-11-28,Confirmed,1482,App,Consultant_12,France,Mobile,13,3,1
+BKG00963,CUST0329,Bangkok,2023-05-15,2023-02-24,Cancelled,3943,Website,Consultant_11,Spain,Tablet,13,4,1
+BKG00964,CUST0450,Prague,2024-07-26,2025-03-29,Cancelled,5511,Phone,Consultant_17,UK,Tablet,18,2,1
+BKG00965,CUST0463,Berlin,2023-03-29,2023-04-10,Confirmed,3033,Phone,Consultant_8,UK,Desktop,17,4,2
+BKG00966,CUST0434,Milan,2023-07-26,2024-10-16,Cancelled,1193,Agent,Consultant_17,Spain,Desktop,19,1,0
+BKG00967,CUST0451,Paris,2023-05-09,2023-05-22,Confirmed,4620,Phone,Consultant_20,Spain,Mobile,20,2,0
+BKG00968,CUST0049,Seoul,2023-01-03,2024-01-29,Pending,655,Agent,Consultant_11,France,Desktop,6,2,1
+BKG00969,CUST0292,Barcelona,2023-05-01,2023-11-29,Confirmed,4088,App,Consultant_2,France,Mobile,7,3,0
+BKG00970,CUST0382,Istanbul,2024-01-20,2024-05-15,Pending,7275,Phone,Consultant_10,UK,Mobile,9,4,2
+BKG00971,CUST0324,Sydney,2024-09-05,2023-05-01,Cancelled,2312,App,Consultant_10,Italy,Mobile,4,4,0
+BKG00972,CUST0078,Rome,2023-02-07,2024-07-13,Confirmed,6149,Website,Consultant_11,Germany,Desktop,3,2,0
+BKG00973,CUST0105,Bangkok,2023-12-07,2024-11-21,Confirmed,6562,App,Consultant_6,Netherlands,Tablet,14,4,2
+BKG00974,CUST0169,Berlin,2024-10-06,2025-02-07,Pending,6329,Website,Consultant_4,France,Tablet,12,4,1
+BKG00975,CUST0217,Milan,2023-01-21,2025-01-25,Cancelled,5676,App,Consultant_12,Germany,Desktop,10,3,1
+BKG00976,CUST0378,San Francisco,2023-08-30,2024-11-23,Confirmed,6224,App,Consultant_11,France,Tablet,3,2,0
+BKG00977,CUST0119,Barcelona,2024-03-30,2023-08-10,Cancelled,4614,Phone,Consultant_13,Italy,Mobile,14,1,2
+BKG00978,CUST0190,Madrid,2024-09-12,2024-08-04,Confirmed,1907,App,Consultant_5,Netherlands,Tablet,4,2,1
+BKG00979,CUST0255,Vienna,2023-10-30,2023-09-29,Confirmed,1716,Phone,Consultant_6,Spain,Desktop,12,3,1
+BKG00980,CUST0370,Oslo,2024-08-18,2023-06-17,Confirmed,6880,Phone,Consultant_1,UK,Tablet,19,3,1
+BKG00981,CUST0266,Rio,2024-08-17,2024-01-10,Confirmed,1910,Agent,Consultant_6,Spain,Mobile,5,3,0
+BKG00982,CUST0149,Seoul,2023-03-10,2023-07-29,Cancelled,3997,Agent,Consultant_18,France,Mobile,9,4,2
+BKG00983,CUST0164,Milan,2023-05-09,2025-01-11,Confirmed,4872,Website,Consultant_9,UK,Desktop,14,2,0
+BKG00984,CUST0140,Lisbon,2023-07-15,2024-06-16,Cancelled,7894,App,Consultant_15,France,Desktop,10,4,1
+BKG00985,CUST0347,Prague,2023-05-20,2023-08-21,Confirmed,5340,Website,Consultant_8,Italy,Desktop,14,4,2
+BKG00986,CUST0488,Helsinki,2024-03-19,2024-08-25,Confirmed,1051,App,Consultant_19,France,Mobile,5,2,0
+BKG00987,CUST0258,Vienna,2023-10-10,2023-08-10,Confirmed,3894,Agent,Consultant_16,Spain,Tablet,19,3,1
+BKG00988,CUST0374,Lisbon,2023-11-08,2023-02-04,Confirmed,1676,Agent,Consultant_6,USA,Tablet,11,1,1
+BKG00989,CUST0269,San Francisco,2024-06-18,2023-09-24,Confirmed,5234,App,Consultant_6,Germany,Desktop,12,1,0
+BKG00990,CUST0181,Lisbon,2024-10-26,2024-12-23,Confirmed,4832,App,Consultant_3,Italy,Tablet,8,2,1
+BKG00991,CUST0160,Berlin,2023-10-04,2023-12-07,Confirmed,1497,Agent,Consultant_10,Netherlands,Tablet,3,2,1
+BKG00992,CUST0351,Oslo,2023-03-02,2024-08-01,Confirmed,4576,Agent,Consultant_1,France,Desktop,14,3,2
+BKG00993,CUST0400,Milan,2023-11-15,2023-03-27,Confirmed,6698,Website,Consultant_14,USA,Desktop,7,2,1
+BKG00994,CUST0288,Helsinki,2023-02-21,2024-04-17,Confirmed,6599,Agent,Consultant_4,USA,Mobile,15,2,0
+BKG00995,CUST0288,Rome,2023-06-02,2023-09-24,Cancelled,6055,App,Consultant_12,Italy,Mobile,17,3,2
+BKG00996,CUST0380,Bangkok,2023-11-07,2025-06-18,Pending,3231,Website,Consultant_6,UK,Mobile,13,3,0
+BKG00997,CUST0226,Oslo,2024-06-27,2025-06-09,Confirmed,6752,App,Consultant_11,Italy,Mobile,10,4,1
+BKG00998,CUST0011,Istanbul,2024-07-20,2023-08-15,Confirmed,4437,Phone,Consultant_12,USA,Tablet,7,2,2
+BKG00999,CUST0010,Sydney,2024-01-24,2024-09-06,Confirmed,4552,Website,Consultant_10,UK,Tablet,4,1,2
+BKG01000,CUST0271,Dubai,2024-07-01,2024-08-23,Pending,5803,App,Consultant_18,Italy,Mobile,14,2,2
