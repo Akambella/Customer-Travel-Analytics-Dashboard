@@ -67,7 +67,6 @@ customer-travel-analytics-dashboard/
 ├── data/           cleaned CSV files
 ├── sql/            queries.sql
 ├── python/         data cleaning notebook
-├── dashboard/      Power BI report
 ├── images/         dashboard screenshots
 └── README.md
 ```
