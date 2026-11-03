@@ -1,5 +1,7 @@
 # Customer Travel Booking Analytics Dashboard
 
+![Executive Overview](images/executive_overview.png)
+
 ## Project Overview
 
 I built this project to practice working with real-world style data from end to end. It covers 1,000 customer travel bookings and looks at things like revenue trends, customer behavior, consultant performance, and cancellations. The idea was to go through the full analyst workflow: raw data, cleaning, querying, and finally a dashboard that someone in a business could actually use.
