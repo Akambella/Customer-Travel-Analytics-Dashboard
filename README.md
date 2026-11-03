@@ -89,14 +89,46 @@ Customer-Travel-Analytics-Dashboard/
 ### Executive Overview
 ![Executive Overview](images/executive_overview.png)
 
+**Business Purpose & Stakeholder Value**
+
+The Executive Overview provides a high-level view of the company's travel booking performance through key metrics such as total revenue, total bookings, average booking value, average trip length and cancellation rate.
+
+I chose these metrics because they give stakeholders an immediate understanding of overall business performance without requiring them to go through individual booking records. The monthly revenue trend helps identify changes in business performance over time, while revenue by destination and country highlights the markets contributing most to revenue. Booking channel analysis and interactive filters allow stakeholders to explore performance from different perspectives.
+
+**Stakeholder Value:** This page helps management monitor overall performance, identify high-performing markets, understand booking trends and recognise areas that may require further investigation. It provides a starting point for strategic decisions around market focus, business performance and revenue opportunities.]
+
 ### Consultant Performance
 ![Consultant Performance](images/consultant_performance.png)
+
+**Business Purpose & Stakeholder Value**
+
+This page focuses on consultant productivity and revenue contribution. I included total revenue by consultant, booking volumes, average booking value and a consultant performance table to provide a balanced view of individual contributions.
+
+I chose to analyse both revenue and booking volume because a high number of bookings does not necessarily translate into the highest revenue. Comparing these measures helps distinguish consultants who generate more bookings from those who contribute more revenue. The rankings and detailed table allow stakeholders to compare performance across the consultant team.
+
+**Stakeholder Value:** This dashboard helps management identify top-performing consultants, understand differences in individual performance and recognise potential areas for improvement. These insights can support performance reviews, targeted coaching, resource allocation and the development of appropriate performance strategies.
 
 ### Customer Insights
 ![Customer Insights](images/customer_insights.png)
 
+**Business Purpose & Stakeholder Value**
+
+This page explores customer characteristics, booking behaviour and revenue contribution. I included customer segmentation, one-time versus repeat customers, revenue by age group and bookings by country to understand how different customer groups interact with the business.
+
+I chose these metrics because understanding who the customers are is just as important as understanding how much revenue they generate. The comparison between one-time and repeat customers helps highlight customer retention patterns, while age-group and country analysis provides additional context around customer segments and their contribution to revenue.
+
+**Stakeholder Value:** This page helps stakeholders understand customer behaviour, identify valuable customer segments and recognise patterns in repeat bookings. These insights can inform customer retention initiatives, targeted marketing campaigns and decisions about which customer segments may offer further business opportunities.
+
 ### Cancellation Analysis
 ![Cancellation Analysis](images/cancellation_analysis.png)
+
+**Business Purpose & Stakeholder Value**
+
+This page examines booking cancellations to understand how cancellation behaviour varies across booking channels, destinations and months. I included the overall cancellation rate, cancellation rate by channel, cancellation rate by destination, monthly cancellation trends and booking distribution by status.
+
+I chose these measures because cancellations can affect revenue performance and booking reliability. Analysing cancellation rates across different categories helps identify where cancellations are more frequent, rather than looking only at the overall cancellation figure. The monthly trend also helps stakeholders observe changes in cancellation patterns over time.
+
+**Stakeholder Value:** This page helps management identify booking channels and destinations with relatively high cancellation rates, monitor changes over time and investigate possible causes. The findings can support further investigation into booking processes, customer behaviour and strategies to improve booking retention.
 
 ## Author
 
