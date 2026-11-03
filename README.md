@@ -95,7 +95,7 @@ The Executive Overview provides a high-level view of the company's travel bookin
 
 I chose these metrics because they give stakeholders an immediate understanding of overall business performance without requiring them to go through individual booking records. The monthly revenue trend helps identify changes in business performance over time, while revenue by destination and country highlights the markets contributing most to revenue. Booking channel analysis and interactive filters allow stakeholders to explore performance from different perspectives.
 
-**Stakeholder Value:** This page helps management monitor overall performance, identify high-performing markets, understand booking trends and recognise areas that may require further investigation. It provides a starting point for strategic decisions around market focus, business performance and revenue opportunities.]
+**Stakeholder Value:** This page helps management monitor overall performance, identify high-performing markets, understand booking trends and recognise areas that may require further investigation. It provides a starting point for strategic decisions around market focus, business performance and revenue opportunities.
 
 ### Consultant Performance
 ![Consultant Performance](images/consultant_performance.png)
